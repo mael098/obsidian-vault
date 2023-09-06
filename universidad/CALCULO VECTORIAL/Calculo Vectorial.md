@@ -169,6 +169,7 @@ in Exercises 27-30 sketch vectores corresponding to a,b a + b,a-b,2a,and-3b.
 28 $a=-5i+2j,b=i-3j$
 30 $a=<2,0>,B=<-2,0>$
 
+mañana
 
 
 
