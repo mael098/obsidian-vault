@@ -11,3 +11,5 @@ caracteristica psicografica: es la agrupasion de clientes en un mercardo
 
 tarea modelo canvas 
 tarea ejemplos plan de negocio
+
+tarea hambre de poder 

@@ -139,3 +139,27 @@ se require maximazar  la utilidad, cuanto producir de cada producto?
 
 
 
+# problema
+
+un estudiante de ingeniero  necesia completar  65 cursos 
+ P/Graduarse el numero de cursos de 
+ ingenieria  liene que ser mayor  o igual a
+ 23. el numero  de cursos  ajenos a ingenieria debe ser mayor o igual a 
+ 20.  el curso de ingenieria  promedio  requiere  un libro de texto  que cuesta  $60 e implica 20hrs. de estudio los cursos 
+ajenos a ingenieria  requieren un libro  de texto que cuesta  $24, e implican 200hrs de estudios 
+el estudiante dispone de $3000 de propuesto  p/libro 
+¿con que conbinacion de cursos de ing. y ajenos 
+
+minimizaria el numero 
+total de horas de estudio ?
+x= curso de ingenieria 
+y=cursos ajenos a ingenieria 
+
+se pide:
+F.O. = $Z= 120x + 200y$
+restriciones. = $X+y=65$ 
+$x\ge 20$
+$y\ge20$
+resolver por  metodos  graficos  
+graficar
+conbinacion mejor 
