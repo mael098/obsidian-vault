@@ -163,6 +163,16 @@ $x\ge 23$
 $y\ge20$
 $60x+24y\le3000$
 
+$$\begin{align}
+x+y=65\\
+65-y&\ge 23\\
+\\
+60(65-y)+24y\ge3000\\
+
+\end{align}$$
+
+
+
 resolver por  metodos  graficos  
 
 graficar
