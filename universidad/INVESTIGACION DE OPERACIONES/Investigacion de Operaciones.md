@@ -180,3 +180,14 @@ conbinacion mejor
 
 
 
+
+1.-the Realy  big shos es un fabricante  de calzones de deportivo para basquetbol y futbol. El generente de marketing, ed sullivan, tiene que decirle  la mejor forma  de gastar los recursos  destinados a publicidad  cada unos delos quipsoo de fultbol  patonados requiere 120 pares  de zapatos. cada aquipo de basquqtbol require 32 pares zapatos. los  entrenadores de futbol reciben $300,000 por  concepto de patrocinio para calzodo , y los entrandores de basquetbol recibe $1,000,000
+el presupuesto  de sullivan  para  promociones  ascinde a $30,000,000.
+the  really  big shoe dispone  de una provision limitada(4 litros, o sea 4,000 centimetros cubicos) de flubber, un compuesto raro  y costoso que se utiliza  en la fabricacion del calzado 
+
+
+# solucion
+a) el  
+
+
+
