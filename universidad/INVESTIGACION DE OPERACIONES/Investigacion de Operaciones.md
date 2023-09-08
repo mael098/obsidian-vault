@@ -186,8 +186,6 @@ el presupuesto  de sullivan  para  promociones  ascinde a $30,000,000.
 the  really  big shoe dispone  de una provision limitada(4 litros, o sea 4,000 centimetros cubicos) de flubber, un compuesto raro  y costoso que se utiliza  en la fabricacion del calzado 
 
 
-# solucion
-a) el  
-
+s# solucion
 
 
