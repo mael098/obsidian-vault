@@ -204,3 +204,12 @@ $$Z=Maximizar(x+y)$$
 
 $$1,000,000/30,000,000$$
 
+curso nesesario para graduarse: X+y =65
+cantidad  de cursos  de adminitracion: $X\ge23$	
+cantidad  de cursos  ajenos a administración: $Y\ge20$ 
+tiempo  total  de estudio: $120X + 200y\le12600$
+
+$$x=23$$
+$$y=42$$
+$$z=2388$$
+	
