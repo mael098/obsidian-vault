@@ -180,7 +180,7 @@ conbinacion mejor
 
 
 ------
-1.-the Realy  big shos es un fabricante  de calzones de deportivo para basquetbol y futbol. El generente de marketing, ed sullivan, tiene que decirle  la mejor forma  de gastar los recursos  destinados a publicidad  cada unos delos quipsoo de fultbol  patonados requiere 120 pares  de zapatos. cada aquipo de basquqtbol require 32 pares zapatos. los  entrenadores de futbol reciben $300,000 por  concepto de patrocinio para calzodo , y los entrandores de basquetbol recibe $1,000,000
+1. the Realy  big shos es un fabricante  de calzones de deportivo para basquetbol y futbol. El generente de marketing, ed sullivan, tiene que decirle  la mejor forma  de gastar los recursos  destinados a publicidad  cada unos delos quipsoo de fultbol  patonados requiere 120 pares  de zapatos. cada aquipo de basquqtbol require 32 pares zapatos. los  entrenadores de futbol reciben $300,000 por  concepto de patrocinio para calzodo , y los entrandores de basquetbol recibe $1,000,000
 el presupuesto  de sullivan  para  promociones  ascinde a $30,000,000.
 the  really  big shoe dispone  de una provision limitada(4 litros, o sea 4,000 centimetros cubicos) de flubber, un compuesto raro  y costoso que se utiliza  en la fabricacion del calzado atletico  de promocion. cada par de zapatos  de futbol 1 cc. sullivan  desea  patrocinar  el mayor numero  de quipos  de basquetbol y futbol que sus  recursos  le permitan.
 
@@ -202,7 +202,7 @@ $$Z=Maximizar(x+y)$$
 - Flubber: $120x+ 96y\le4000$
 - No negatividad :$x,y\ge0$
 
-$$1,000,000/30,000,000$$
+![[Drawing 2023-09-09 12.10.41.excalidraw]]
 
 curso nesesario para graduarse: X+y =65
 cantidad  de cursos  de adminitracion: $X\ge23$	
@@ -212,6 +212,18 @@ tiempo  total  de estudio: $120X + 200y\le12600$
 $$x=23$$
 $$y=42$$
 $$z=2388$$
-para la restriccion sobre  la cantidad  de curso  ajenos  ala adminitracion  y  la variable de holgura alas  horas de estudio 
+para la restricción sobre  la cantidad  de curso  ajenos  ala adminitracion  y  la variable de holgura alas  horas de estudio .
+
 $adminitracion = 42- 20 = 5$
 $horas de estudio = 12600-(120*23+200*42)=1440$
+
+---
+2. Mile-High Microbrewery fabrica una cerveza clara y una oscura. Mile-High dispone de una provisión limitada de cebada, tiene capacidad de embotellamiento limitada y un mercado también limitado para su cerveza clara. Las utilidades son de $0.20 por cada botella de cerveza clara y $0.50 por cada botella de cerveza oscura.
+
+1. La siguiente tabla muestra la disponibilidad de recursos en la Mile-High Microbrewery. Aplique el método gráfico de programación lineal para maximizar las utilidades. ¿Cuántas botellas de cada producto deberán fabricarse cada mes?
+
+| producto |                      |     |
+| -------- | -------------------- | --- |
+| recursos | cerveza clara($x_1$) |     |
+				
+
