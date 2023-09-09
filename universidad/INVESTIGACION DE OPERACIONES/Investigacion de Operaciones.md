@@ -212,4 +212,6 @@ tiempo  total  de estudio: $120X + 200y\le12600$
 $$x=23$$
 $$y=42$$
 $$z=2388$$
-	
+para la restriccion sobre  la cantidad  de curso  ajenos  ala adminitracion  y  la variable de holgura alas  horas de estudio 
+$adminitracion = 42- 20 = 5$
+$horas de estudio = 12600-(120*23+200*42)=1440$
