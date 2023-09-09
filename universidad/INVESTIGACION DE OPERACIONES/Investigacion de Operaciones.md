@@ -202,5 +202,7 @@ $$Z=Maximizar(x+y)$$
 - Flubber: $120x+ 96y\le4000$
 - No negatividad :$x,y\ge0$
 
+$$1,000,000/30,000,000$$
+
 
 
