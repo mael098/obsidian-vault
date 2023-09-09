@@ -225,8 +225,19 @@ $horas de estudio = 12600-(120*23+200*42)=1440$
 | producto    |                      |                        |                                          |
 | ----------- | -------------------- | ---------------------- | ---------------------------------------- |
 | recursos    | cerveza clara($x_1$) | cerversa oscura($X_2$) | disponibilidades  de  recursos (por mes) |
-| cebada      | 0.1 gramos        |                        |                                          |
-| embotellada | 1 botella         |                        |                                          |
-| mercado     | 1 botella         |                        |                                          |
+| cebada      | 0.1 gramos           | 0.6 gramo              |       2,000 gramos      |
+| embotellada | 1 botella            | 1 botella              |       6,000 botella     |
+| mercado     | 1 botella            |    ---               |         4,000 botella     |
 
+solución 
+$X_1=$Número de botellas  de cerveza clara
+$X_2=$ Numero de botellas de cerveza oscura  
+
+$Z=$ Maximizar $(0.20X_1+0.50X_2)$
+
+Restricciones:
+
+cebada:$0.1X_1+0.6X_2\le2000$
+embotellado:$X_1+X_2\le6000$
+mercado: $X_1\le4000$
 
