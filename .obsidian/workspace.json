@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "universidad/INVESTIGACION DE OPERACIONES/Investigacion de Operaciones.md",
+                "file": "fisiica/apuntes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "universidad/INVESTIGACION DE OPERACIONES/Investigacion de Operaciones.md",
+                "file": "fisiica/apuntes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "universidad/INVESTIGACION DE OPERACIONES/Investigacion de Operaciones.md",
+                "file": "fisiica/apuntes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "universidad/INVESTIGACION DE OPERACIONES/Investigacion de Operaciones.md"
+                "file": "fisiica/apuntes.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "8d5ebdb61ff3f7a0",
   "lastOpenFiles": [
+    "universidad/INVESTIGACION DE OPERACIONES/Investigacion de Operaciones.md",
     "Pasted image 20230907110704.png",
     "cultura empresarial/estado de privacion que sufre una persona.md",
     "universidad/CALCULO VECTORIAL/Calculo Vectorial.md",
@@ -169,7 +170,6 @@
     "universidad/CALCULO VECTORIAL/Excalidraw/ej1.md",
     "universidad/CALCULO VECTORIAL/Excalidraw/determinacionAnnalitica.excalidraw.md",
     "universidad/CALCULO VECTORIAL/Excalidraw/Drawing 2023-09-04 07.04.22.excalidraw.md",
-    "universidad/INVESTIGACION DE OPERACIONES/Investigacion de Operaciones.md",
     "universidad/CALCULO VECTORIAL/Excalidraw/actividad6 .excalidraw.md",
     "universidad/CALCULO VECTORIAL/Excalidraw/AB.excalidraw.md",
     "universidad/CALCULO VECTORIAL/Excalidraw/Cuadrantes.excalidraw.md",
