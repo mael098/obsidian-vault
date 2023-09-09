@@ -179,13 +179,28 @@ graficar
 conbinacion mejor 
 
 
-
-
+------
 1.-the Realy  big shos es un fabricante  de calzones de deportivo para basquetbol y futbol. El generente de marketing, ed sullivan, tiene que decirle  la mejor forma  de gastar los recursos  destinados a publicidad  cada unos delos quipsoo de fultbol  patonados requiere 120 pares  de zapatos. cada aquipo de basquqtbol require 32 pares zapatos. los  entrenadores de futbol reciben $300,000 por  concepto de patrocinio para calzodo , y los entrandores de basquetbol recibe $1,000,000
 el presupuesto  de sullivan  para  promociones  ascinde a $30,000,000.
-the  really  big shoe dispone  de una provision limitada(4 litros, o sea 4,000 centimetros cubicos) de flubber, un compuesto raro  y costoso que se utiliza  en la fabricacion del calzado 
+the  really  big shoe dispone  de una provision limitada(4 litros, o sea 4,000 centimetros cubicos) de flubber, un compuesto raro  y costoso que se utiliza  en la fabricacion del calzado atletico  de promocion. cada par de zapatos  de futbol 1 cc. sullivan  desea  patrocinar  el mayor numero  de quipos  de basquetbol y futbol que sus  recursos  le permitan.
+
+a) formule un conjunto de ecuaciones lineales para describir  la funcion objetivo  y las  restriciones. 
+b) utilice  el analisis grafico para encontrar  la solucion  visual.
+c) ¿cual es el numero  maximo  de cada tipo  de quipo  que the really big shoe podra patrocinar?
 
 
-s# solucion
+solucion 1: 
+a) el planteamiento del problema  de programacion lineal seria:
+
+
+X= Numeros de equipos de futbol apatrocinar 
+y = Números de equipos de basquetbol a patrocinar 
+
+$$Z=Maximizar(x+y)$$
+
+- presupuesto : $300,000x+1,000,000y\le30,000,000$
+- Flubber: $120x+ 96y\le4000$
+- No negatividad :$x,y\ge0$
+
 
 
