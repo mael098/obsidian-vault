@@ -222,8 +222,11 @@ $horas de estudio = 12600-(120*23+200*42)=1440$
 
 1. La siguiente tabla muestra la disponibilidad de recursos en la Mile-High Microbrewery. Aplique el método gráfico de programación lineal para maximizar las utilidades. ¿Cuántas botellas de cada producto deberán fabricarse cada mes?
 
-| producto |                      |     |
-| -------- | -------------------- | --- |
-| recursos | cerveza clara($x_1$) |     |
-				
+| producto    |                      |                        |                                          |
+| ----------- | -------------------- | ---------------------- | ---------------------------------------- |
+| recursos    | cerveza clara($x_1$) | cerversa oscura($X_2$) | disponibilidades  de  recursos (por mes) |
+| cebada      | 0.1 gramos        |                        |                                          |
+| embotellada | 1 botella         |                        |                                          |
+| mercado     | 1 botella         |                        |                                          |
+
 
