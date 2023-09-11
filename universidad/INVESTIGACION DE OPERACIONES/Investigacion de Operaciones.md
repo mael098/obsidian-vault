@@ -170,13 +170,14 @@ x+y=65\\
 60(65-y)+24y\ge3000\\
 
 \end{align}$$
+![[Drawing 2023-09-09 12.10.41.excalidraw]]
 
 
+- X = 40
+- Y = 25
 
-resolver por  metodos  graficos  
-
-graficar
-conbinacion mejor 
+- s1 = 40 – 23 = 17
+- s2 = 25 – 20 = 5
 
 
 ------
@@ -201,8 +202,6 @@ $$Z=Maximizar(x+y)$$
 - presupuesto : $300,000x+1,000,000y\le30,000,000$
 - Flubber: $120x+ 96y\le4000$
 - No negatividad :$x,y\ge0$
-
-![[Drawing 2023-09-09 12.10.41.excalidraw]]
 
 curso nesesario para graduarse: X+y =65
 cantidad  de cursos  de adminitracion: $X\ge23$	
