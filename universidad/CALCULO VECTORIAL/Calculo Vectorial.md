@@ -163,13 +163,17 @@ la grafica queda :
 23.-:)$P(2,5),(Q-4,5)$     24.-:)P(-4,6),Q(-4,-2)
 25.-:)P(-3,-1)Q(6,-4)        26.-:)P(2,3),Q(-6,0)
 
+![[Pasted image 20230910222517.png]]
 
-in Exercises 27-30 sketch vectores corresponding to a,b a + b,a-b,2a,and-3b.
 
-28 $a=-5i+2j,b=i-3j$
-30 $a=<2,0>,B=<-2,0>$
 
-mañana
+actividad resolver problemas del 11 a 20:
+
+![[Pasted image 20230910222838.png]]
+![[Pasted image 20230910222851.png]]
+![[Pasted image 20230910222901.png]]
+
+
 
 
 
