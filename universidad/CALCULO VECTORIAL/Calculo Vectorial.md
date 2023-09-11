@@ -174,6 +174,54 @@ actividad resolver problemas del 11 a 20:
 ![[Pasted image 20230910222901.png]]
 
 
+---
+## semana 4
+
+problemas  razonados con vectores.
+
+dos fuerzas de magnitudes de 200 lbs y de 25 lbs  forman  un angulo de 60° ( entre si ) y se aplican  a un cuerpo  en el mismo  punto. 
+encuentre la magnitud de la  fuerzas resultante  y el angulo que forma la resultante  con la fuerza de 200 lbs.
+1) Elaborar el D.C.L y ubicar los datos. 
+![[problema razonados con vectores.excalidraw]]
+
+el vector a se ubico  en el punto (200,0)
+se ubica el vector  (B) a 60° respecto de vector(A)
+y su cordenada tiene componente en   $X y Y$ por lo tanto que da $(250 cos 60°,250sen60°)$  
+     ~x~        ~y~
+
+
+- recordar que en la suma veciones $A+b$
+$A=(A_1,A_2)$
+$B=(B_1,B_2)$
+
+- $A+B=(A_1+B_1,A_2+B_2)$
+- $p/$este problema 
+
+$b_1=(250 cos 60° =125)$
+$b_2 = (250 cos 60°=210.5)$
+por lo que
+$B=(125,216.5)$
+
+ahora sumamos
+$A+B= (200,0)+(125,216.5)= (325,216.5)$
+
+aplicando  la fomula del  vectores  resultado 
+
+| |A+B || = $(325)²+(216.5)²$
+
+|| A+B ||  =390.5
+
+
+valor fierza  resultante 
+ahora valor de  angulo del vector  resultante con formula 
+
+tan 0=$b_2b_1= 216/325$
+
+
+
+
+
+
 
 
 
