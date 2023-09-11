@@ -215,6 +215,7 @@ para la restricción sobre  la cantidad  de curso  ajenos  ala adminitracion  y 
 
 $adminitracion = 42- 20 = 5$
 $horas de estudio = 12600-(120*23+200*42)=1440$
+![[Pasted image 20230910220440.png]]
 
 ---
 2. Mile-High Microbrewery fabrica una cerveza clara y una oscura. Mile-High dispone de una provisión limitada de cebada, tiene capacidad de embotellamiento limitada y un mercado también limitado para su cerveza clara. Las utilidades son de $0.20 por cada botella de cerveza clara y $0.50 por cada botella de cerveza oscura.
@@ -239,4 +240,10 @@ Restricciones:
 cebada:$0.1X_1+0.6X_2\le2000$
 embotellado:$X_1+X_2\le6000$
 mercado: $X_1\le4000$
+
+![[Pasted image 20230910220752.png]]
+- x1 =3200
+- x2 = 2800
+- Z = 2040
+
 
