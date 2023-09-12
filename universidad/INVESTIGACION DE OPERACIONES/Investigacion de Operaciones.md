@@ -247,3 +247,47 @@ mercado: $X_1\le4000$
 - Z = 2040
 
 
+
+
+---
+El gerente de la planta de producción de un fabricante de tubos de plástico tiene la opción de utilizar dos rutas diferentes para la fabricación de un tipo de tubo de plástico en particular.
+
+La ruta 1 utiliza la extrusora A y la ruta 2 utiliza la extrusora B. Ambas rutas requieren el mismo proceso de fusión. La siguiente tabla muestra los requisitos de tiempo y las capacidades de estos procesos.
+
+![datos programación lineal problema 5](https://www.plandemejora.com/wp-content/uploads/image010.png)
+
+Cada 100 pies de tubo procesado en la ruta 1 utilizan 5 libras de materias primas, mientras que cada 100 pies de tubo producidos en la ruta 2 utilizan solamente 4 libras. Esta diferencia es el resultado de las diferentes tasas de desperdicio de cada una de las máquinas de extrusión. En consecuencia, la utilidad por 100 pies de tubo procesados en la ruta 1 es de $60 y en la ruta 2 es de $80. Hay en total 200 libras de materias primas disponibles.
+
+1. Formule un conjunto de ecuaciones lineales para describir la función objetivo y las restricciones.
+2. Aplique el análisis gráfico para encontrar la solución visual.
+3. ¿Cuál es la utilidad máxima?
+### Solución 
+
+**a)** El planteamiento para este ejemplo de programación lineal es:
+
+**Variables:**
+
+- x = Número de tubos de 100 pies procesados en la ruta 1
+- y = Número de tubos de 100 pies procesados en la ruta 2
+
+**Función Objetivo:**
+
+_Z = Maximizar (60x + 80y)_
+
+**Restricciones:**
+
+- Fusión: _x + y ≤ 45_
+- Extrusora A: _3x ≤ 90_
+- Extrusora B: _y ≤ 160_
+- Materia Prima: _5x + 4y ≤ **200_**
+
+
+
+
+- La solución visual se encontraría en el punto B:
+
+- x = 0
+- y = 45
+
+
+![[fabricante de tubos de plástico.excalidraw]]
