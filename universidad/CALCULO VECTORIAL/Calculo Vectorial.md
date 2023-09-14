@@ -222,6 +222,9 @@ un abion vuela con una velocidad al aire de 300 mi/ar. si
 el aire  sopla hacia el este  a 50 mi/hr. ¿cual debe  ser  el enfilamiento  del avión para que su curso sea de 30°?
 
  ¿cual seria la relacion a tierra del del avion  asi vuela con este  curso?
+## solucion :
+ 
+
 
 tarea de congruencia y semejanza  triangula2
 
