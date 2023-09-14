@@ -291,3 +291,15 @@ _Z = Maximizar (60x + 80y)_
 
 
 ![[fabricante de tubos de plástico.excalidraw]]
+
+
+
+
+una empresa victivinicola  ha adquirido  recientemente un terreno  nde 110 sectarias   debido  ala cantida  del sol  y el exelente  clima 
+de al region, se puede vender  toda  la produccion  de unas sauvignon blanc y chardonnay.  se desea conocer cuanto plantar cada variedad   en las 110 hetarias, dado los constos beneficios netos requimintos  de mano de obra segun los datos que se muestra  continuacion:
+
+
+| variable        | coste(us$) | beneficios neto | dias hombre |     |
+| --------------- | ---------- | --------------- | ----------- | --- |
+| sauvignon blanc | 100        |  50             |  10           |     |
+|  chadonnay      |200         |       120       |             |     |
