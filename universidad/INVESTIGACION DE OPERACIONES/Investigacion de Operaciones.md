@@ -301,5 +301,14 @@ de al region, se puede vender  toda  la produccion  de unas sauvignon blanc y ch
 
 | variable        | coste(us$) | beneficios neto | dias hombre |     |
 | --------------- | ---------- | --------------- | ----------- | --- |
-| sauvignon blanc | 100        |  50             |  10           |     |
-|  chadonnay      |200         |       120       |             |     |
+| sauvignon blanc | 100        |  50             |  10         |     |
+|  chadonnay      |200         |       120       |  30         |     |
+
+su pongamos que se posee un presupuesto de us$ 10,000 y una disponibilidad de 1,200 dias hombre durante el horizonte de planificacion formule y resuelva graficamente un modelo de programacion lineal para este problema. detalle claramente el dominio de soluciones factibles y el procedimiento utilizando para encontrar la solucion optima y valor optimo.
+
+
+
+
+
+
+
