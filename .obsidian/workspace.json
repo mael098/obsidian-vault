@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "universidad/estrutura de datos/crear -especifica.md",
+                "file": "universidad/INVESTIGACION DE OPERACIONES/Investigacion de Operaciones.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "universidad/estrutura de datos/crear -especifica.md",
+                "file": "universidad/INVESTIGACION DE OPERACIONES/Investigacion de Operaciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "universidad/estrutura de datos/crear -especifica.md",
+                "file": "universidad/INVESTIGACION DE OPERACIONES/Investigacion de Operaciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "universidad/estrutura de datos/crear -especifica.md"
+                "file": "universidad/INVESTIGACION DE OPERACIONES/Investigacion de Operaciones.md"
               }
             }
           },
@@ -169,8 +169,8 @@
   },
   "active": "9c5f2e0bbdb26e2c",
   "lastOpenFiles": [
-    "cultura empresarial/estado de privacion que sufre una persona.md",
     "universidad/estrutura de datos/crear -especifica.md",
+    "cultura empresarial/estado de privacion que sufre una persona.md",
     "universidad/estrutura de datos",
     "fisiica/apuntes.md",
     "trabajos/eliminar poswerd.md",

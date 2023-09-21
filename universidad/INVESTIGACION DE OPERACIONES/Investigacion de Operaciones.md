@@ -307,6 +307,25 @@ de al region, se puede vender  toda  la produccion  de unas sauvignon blanc y ch
 su pongamos que se posee un presupuesto de us$ 10,000 y una disponibilidad de 1,200 dias hombre durante el horizonte de planificacion formule y resuelva graficamente un modelo de programacion lineal para este problema. detalle claramente el dominio de soluciones factibles y el procedimiento utilizando para encontrar la solucion optima y valor optimo.
 
 
+.64 bist
+"qsv"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
