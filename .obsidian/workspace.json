@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "universidad/INVESTIGACION DE OPERACIONES/Investigacion de Operaciones.md",
+                "file": "universidad/estrutura de datos/crear -especifica.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "universidad/INVESTIGACION DE OPERACIONES/Investigacion de Operaciones.md",
+                "file": "universidad/estrutura de datos/crear -especifica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "universidad/INVESTIGACION DE OPERACIONES/Investigacion de Operaciones.md",
+                "file": "universidad/estrutura de datos/crear -especifica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "universidad/INVESTIGACION DE OPERACIONES/Investigacion de Operaciones.md"
+                "file": "universidad/estrutura de datos/crear -especifica.md"
               }
             }
           },
@@ -169,12 +169,17 @@
   },
   "active": "9c5f2e0bbdb26e2c",
   "lastOpenFiles": [
+    "cultura empresarial/estado de privacion que sufre una persona.md",
+    "universidad/estrutura de datos/crear -especifica.md",
+    "universidad/estrutura de datos",
+    "fisiica/apuntes.md",
+    "trabajos/eliminar poswerd.md",
+    "universidad/INVESTIGACION DE OPERACIONES/Investigacion de Operaciones.md",
     "universidad/INVESTIGACION DE OPERACIONES/Excalidraw/ww2.excalidraw.md",
     "universidad/INVESTIGACION DE OPERACIONES/Excalidraw/fabricante de tubos de plástico.excalidraw.md",
     "universidad/CALCULO VECTORIAL/Calculo Vectorial.md",
     "universidad/CALCULO VECTORIAL/Excalidraw/Vectores.excalidraw.md",
     "universidad/CALCULO VECTORIAL/Excalidraw/problema razonados con vectores.excalidraw.md",
-    "universidad/INVESTIGACION DE OPERACIONES/Investigacion de Operaciones.md",
     "universidad/INVESTIGACION DE OPERACIONES/Excalidraw/Drawing 2023-09-09 12.10.41.excalidraw.md",
     "universidad/CALCULO VECTORIAL/ejersicio.excalidraw.md",
     "Pasted image 20230911194248.png",
@@ -190,9 +195,7 @@
     "Pasted image 20230909144737.png",
     "universidad/CALCULO VECTORIAL/Excalidraw/Cuadrantes.excalidraw.md",
     "universidad/CALCULO VECTORIAL/Excalidraw/AB.excalidraw.md",
-    "fisiica/apuntes.md",
     "Pasted image 20230907110704.png",
-    "cultura empresarial/estado de privacion que sufre una persona.md",
     "universidad/CALCULO VECTORIAL/Excalidraw/7.excalidraw.md",
     "universidad/CALCULO VECTORIAL/Excalidraw/Drawing 2023-09-04 07.04.22.excalidraw.md",
     "universidad/CALCULO VECTORIAL/Excalidraw/actividad6 .excalidraw.md",
@@ -203,8 +206,6 @@
     "universidad/CALCULO VECTORIAL/Excalidraw/Opuesta.md",
     "universidad/CALCULO VECTORIAL/Excalidraw/Cardinales.excalidraw.md",
     "Untitled.canvas",
-    "Untitled.md",
-    "Untitled 1.md",
     "Excalidraw",
     "universidad/INVESTIGACION DE OPERACIONES/Excalidraw",
     "universidad/INVESTIGACION DE OPERACIONES",
@@ -214,7 +215,6 @@
     "universidad/INVESTIGACION DE OPERACIONES/Canvas",
     "universidad/CALCULO VECTORIAL/Excalidraw",
     "universidad/CALCULO VECTORIAL",
-    "trabajos",
-    "universidad/vectorial"
+    "trabajos"
   ]
 }
