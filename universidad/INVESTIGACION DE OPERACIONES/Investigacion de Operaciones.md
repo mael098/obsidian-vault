@@ -306,9 +306,45 @@ de al region, se puede vender  toda  la produccion  de unas sauvignon blanc y ch
 
 su pongamos que se posee un presupuesto de us$ 10,000 y una disponibilidad de 1,200 dias hombre durante el horizonte de planificacion formule y resuelva graficamente un modelo de programacion lineal para este problema. detalle claramente el dominio de soluciones factibles y el procedimiento utilizando para encontrar la solucion optima y valor optimo.
 
+---
 
-.64 bist
-"qsv"
+inventarios:
+los inventarios los conocemos como: 
+existen inventario de : 
+
+materia prima 
+producto en proceso
+producto  terminado
+producto en entrega 
+
+
+
+
+
+
+las varibles a utilidades en el manejo de inventarios son:
+inventario
+inventarios
+ cantidad o  demanda 
+ costo de unitario
+ rasto de pedir 
+ costo de mantener 
+ costo total 
+ inventario promedio 
+ numero de pedidos
+
+----
+
+
+## enfoque tabular 
+
+entre método por  medio de una tabla nos da la medio de   una tabla nos  da la  cantidad option de pedido (donde económicamente nos conviene)
+
+
+| c1 | c2 |c3 |
+| --- | --- | ---- |
+|     | --- | ---- |
+
 
 
 
