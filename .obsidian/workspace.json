@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "universidad/estrutura de datos/crear -especifica.md",
+                "file": "ingles/10 october 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "universidad/estrutura de datos/crear -especifica.md",
+                "file": "ingles/10 october 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "universidad/estrutura de datos/crear -especifica.md",
+                "file": "ingles/10 october 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "universidad/estrutura de datos/crear -especifica.md"
+                "file": "ingles/10 october 2023.md"
               }
             }
           },
@@ -169,11 +169,13 @@
   },
   "active": "97b76f5e7667d15c",
   "lastOpenFiles": [
+    "universidad/estrutura de datos/crear -especifica.md",
+    "ingles/10 october 2023.md",
+    "ingles",
     "universidad/CALCULO VECTORIAL/Drawing 2023-10-09 01.39.59.excalidraw.md",
     "universidad/CALCULO VECTORIAL/Untitled.md",
     "universidad/INVESTIGACION DE OPERACIONES/Investigacion de Operaciones.md",
     "cultura empresarial/estado de privacion que sufre una persona.md",
-    "universidad/estrutura de datos/crear -especifica.md",
     "universidad/estrutura de datos",
     "fisiica/apuntes.md",
     "trabajos/eliminar poswerd.md",
@@ -204,7 +206,6 @@
     "PQ.excalidraw.md",
     "universidad/CALCULO VECTORIAL/Excalidraw/Propiedad Conmutativa.md",
     "universidad/CALCULO VECTORIAL/Excalidraw/Propiedad Asociativa.md",
-    "universidad/CALCULO VECTORIAL/Excalidraw/PQ.excalidraw.md",
     "Untitled.canvas",
     "Excalidraw",
     "universidad/INVESTIGACION DE OPERACIONES/Excalidraw",
@@ -214,7 +215,6 @@
     "cultura empresarial",
     "universidad/INVESTIGACION DE OPERACIONES/Canvas",
     "universidad/CALCULO VECTORIAL/Excalidraw",
-    "universidad/CALCULO VECTORIAL",
-    "trabajos"
+    "universidad/CALCULO VECTORIAL"
   ]
 }
