@@ -4,22 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "0cf3e5f52d502aba",
+        "id": "66d73aded65ba384",
         "type": "tabs",
         "children": [
           {
-            "id": "9c5f2e0bbdb26e2c",
+            "id": "97b76f5e7667d15c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ec20e64ef523369",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
               "state": {
-                "file": "universidad/INVESTIGACION DE OPERACIONES/Investigacion de Operaciones.md",
-                "mode": "source",
-                "source": false
+                "file": "universidad/CALCULO VECTORIAL/Drawing 2023-10-09 01.39.59.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "universidad/INVESTIGACION DE OPERACIONES/Investigacion de Operaciones.md",
+                "file": "universidad/CALCULO VECTORIAL/Drawing 2023-10-09 01.39.59.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "universidad/INVESTIGACION DE OPERACIONES/Investigacion de Operaciones.md",
+                "file": "universidad/CALCULO VECTORIAL/Drawing 2023-10-09 01.39.59.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "universidad/INVESTIGACION DE OPERACIONES/Investigacion de Operaciones.md"
+                "file": "universidad/CALCULO VECTORIAL/Drawing 2023-10-09 01.39.59.excalidraw.md"
               }
             }
           },
@@ -167,10 +174,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9c5f2e0bbdb26e2c",
+  "active": "0ec20e64ef523369",
   "lastOpenFiles": [
-    "cultura empresarial/estado de privacion que sufre una persona.md",
+    "universidad/CALCULO VECTORIAL/Untitled.md",
+    "universidad/CALCULO VECTORIAL/Drawing 2023-10-09 01.39.59.excalidraw.md",
     "universidad/INVESTIGACION DE OPERACIONES/Investigacion de Operaciones.md",
+    "cultura empresarial/estado de privacion que sufre una persona.md",
     "universidad/estrutura de datos/crear -especifica.md",
     "universidad/estrutura de datos",
     "fisiica/apuntes.md",
@@ -203,8 +212,6 @@
     "universidad/CALCULO VECTORIAL/Excalidraw/Propiedad Conmutativa.md",
     "universidad/CALCULO VECTORIAL/Excalidraw/Propiedad Asociativa.md",
     "universidad/CALCULO VECTORIAL/Excalidraw/PQ.excalidraw.md",
-    "universidad/CALCULO VECTORIAL/Excalidraw/Opuesta.md",
-    "universidad/CALCULO VECTORIAL/Excalidraw/Cardinales.excalidraw.md",
     "Untitled.canvas",
     "Excalidraw",
     "universidad/INVESTIGACION DE OPERACIONES/Excalidraw",
