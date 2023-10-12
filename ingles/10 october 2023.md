@@ -88,4 +88,27 @@ and big mouth
 ivanna likes 
 
 
+---
+
+
+## 11 october 2023
+
+I run in the park 
+I ran  in the park
+you run in the park
+![[Drawing 2023-10-12 08.34.05.excalidraw]]
+
+
+
+![[Pasted image 20231012084811.png|500]]
+
+
+comparative 
+
+the humen are more intelligent that the others animals
+
+
+
+
+
 
