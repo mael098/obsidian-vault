@@ -53,11 +53,20 @@ complete these friendship  day  sentence by writing  ´a´ or ´an´ in the  bla
 3. I give  my friend _____an______ extra big hug.
 4. my friend and I have _____an______  existing time at the party 
 5. we make __________ cabby under ______ old tree
-6. 
+
+----
+singular  nouns ending  in a consonant and the letter ´y´
+form the plural b dropping the ´y´ and adding
+
+| singular form | plural form |
+| ------------- | ----------- |
+| boy           | boys        |
+| toy           | toys        |
+| valley        | valleys     |
+| tray          | trays       |
 
 
-
-
+So, most of the 
 
 ---
 
@@ -65,6 +74,18 @@ complete these friendship  day  sentence by writing  ´a´ or ´an´ in the  bla
 - adjectives => 
 
 
+
+#tarea
+10 October 2023
+
+
+
+ivanna is 3 years old 
+she is thin, she has
+Straight hair and big
+blue ayes, small nose
+and big mouth
+ivanna likes 
 
 
 
