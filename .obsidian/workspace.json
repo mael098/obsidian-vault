@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ingles/10 october 2023.md",
+                "file": "extracuricular/int cunetavelas = 0.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ingles/10 october 2023.md",
+                "file": "extracuricular/int cunetavelas = 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ingles/10 october 2023.md",
+                "file": "extracuricular/int cunetavelas = 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ingles/10 october 2023.md"
+                "file": "extracuricular/int cunetavelas = 0.md"
               }
             }
           },
@@ -181,9 +181,12 @@
   },
   "active": "97b76f5e7667d15c",
   "lastOpenFiles": [
+    "Untitled.md",
+    "extracuricular/int cunetavelas = 0.md",
+    "ingles/10 october 2023.md",
+    "extracuricular",
     "Pasted image 20231012084811.png",
     "ingles/Drawing 2023-10-12 08.34.05.excalidraw.md",
-    "ingles/10 october 2023.md",
     "trabajos/eliminar poswerd.md",
     "inglres",
     "universidad/estrutura de datos/crear -especifica.md",
@@ -218,7 +221,6 @@
     "universidad/CALCULO VECTORIAL/Excalidraw/7.excalidraw.md",
     "universidad/CALCULO VECTORIAL/Excalidraw/Drawing 2023-09-04 07.04.22.excalidraw.md",
     "universidad/CALCULO VECTORIAL/Excalidraw/actividad6 .excalidraw.md",
-    "PQ.excalidraw.md",
     "Untitled.canvas",
     "Excalidraw",
     "universidad/INVESTIGACION DE OPERACIONES/Excalidraw",
@@ -226,7 +228,6 @@
     "universidad/INVESTIGACION DE OPERACIONES/Canvas/Historia.canvas",
     "fisiica",
     "cultura empresarial",
-    "universidad/INVESTIGACION DE OPERACIONES/Canvas",
-    "universidad/CALCULO VECTORIAL/Excalidraw"
+    "universidad/INVESTIGACION DE OPERACIONES/Canvas"
   ]
 }
