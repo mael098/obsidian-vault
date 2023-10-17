@@ -108,6 +108,57 @@ comparative
 the humen are more intelligent that the others animals
 
 
+17/octuber/2023
+
+computer   vs superlative
+
+2 nouns
+St vb+ comp+ than+obj
+
+1.- luis is  mother than Pablo 
+
+---
+shy
+big
+cheap
+modern
+good
+
+R=
+1. the pencil  is cheaper than the eraser 
+2. my dog  is bigger than my cat 
+---
+
+add - est to short Adjectives
+
+
+
+|                                                                                                   |     |     |     |     |     |
+| ------------------------------------------------------------------------------------------------- | --- | --- | --- | --- | --- |
+| old => the oldest                                                                                 |     |     |     |     |     |
+| small=> the smallest                                                                              |     |     |     |     |     |
+| the  tallest tall=> the tallest                                                                   |     |     |     |     |     |
+| chage the "Y" to "I" and add - est in adjetives ending in y                                       |     |     |     |     |     |
+| easy => the easiest                                                                               |     |     |     |     |     |
+| shy => the shiest                                                                                 |     |     |     |     |     |
+| noisy => the noisiest                                                                             |     |     |     |     |     |
+|                                                                                                   |     |     |     |     |     |
+| double the last consonant and add -est to short adjectives ending in consunant + vowel+ consonant |     |     |     |     |     |
+| this => the flattert                                                                              |     |     |     |     |     |
+| flat => the                                                                                                   |     |     |     |     |     |
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
