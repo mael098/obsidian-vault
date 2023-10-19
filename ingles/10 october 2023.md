@@ -133,20 +133,19 @@ add - est to short Adjectives
 
 
 
-|                                                                                                   |     |     |     |     |     |
-| ------------------------------------------------------------------------------------------------- | --- | --- | --- | --- | --- |
-| old => the oldest                                                                                 |     |     |     |     |     |
-| small=> the smallest                                                                              |     |     |     |     |     |
-| the  tallest tall=> the tallest                                                                   |     |     |     |     |     |
-| chage the "Y" to "I" and add - est in adjetives ending in y                                       |     |     |     |     |     |
-| easy => the easiest                                                                               |     |     |     |     |     |
-| shy => the shiest                                                                                 |     |     |     |     |     |
-| noisy => the noisiest                                                                             |     |     |     |     |     |
-|                                                                                                   |     |     |     |     |     |
-| double the last consonant and add -est to short adjectives ending in consunant + vowel+ consonant |     |     |     |     |     |
-| this => the flattert                                                                              |     |     |     |     |     |
-| flat => the                                                                                                   |     |     |     |     |     |
-
+|                                                                                                   | 
+| ------------------------------------------------------------------------------------------------- | 
+| old => the oldest                                                                                 |     
+| small=> the smallest                                                                              |     
+| the  tallest tall=> the tallest                                                                   |     
+| chage the "Y" to "I" and add - est in adjetives ending in y                                       |     
+| easy => the easiest                                                                               |     
+| shy => the shiest                                                                                 |     
+| noisy => the noisiest                                                                             |     
+|                                                                                                   |
+| double the last consonant and add -est to short adjectives ending in consunant + vowel+ consonant | 
+| this => the flattert                                                                              |    
+| flat => the                                                                                       |     
 
 
  irregular
@@ -174,14 +173,58 @@ Felix climbed the tallest mountain in Australia. (tall)
 
 
 
+-----
+19/October/2023
+## demonstrative  pronouns  
+| singular | plural |
+| -------- | ------ |
+| this -> this is pencil     | these  -> these are pencil|
+| that -> that a pencil    | those -> those are pencil |
+
+
+Demonstrative Adjectives 
+
+We use them to show 
+aproximately and cuentiti
+
+
+-> choose the correct answer
+
+these  girl 
+
+those are
+
+
+| Possesive | Adjectives |
+| --------- | ---------- |
+| I         | my         |
+| you       | your       |
+| he        | his        |
+| she       | her        |
+| it        | its        |
+| we        | our        |
+| you       | your       |
+| they      | theirs     |
+
+
+example: __this__ __is__  __your__ backpack 
+the  backpack is mine (my)
+these are their pencitl
+
+
+|                                       |                                                   |
+| ------------------------------------- | ------------------------------------------------- |
+| this is ben. => this  is ->his<- ball | this is bill                                      |
+| this is tom  this is -><- book        | these children are playing.=> these are -><-toys. |
+| these dogs are => this is -><- ball   | this is a snowman. =>                               |
 
 
 
 
 
 
-
-
-
-
-
+|                                              |                                                    |
+| -------------------------------------------- | -------------------------------------------------- |
+| this is an alien => this is->it´s<-spaceship | this is a monster. => this is ->it´s<- hat.        |
+| this is Jill. => this is -><-flower.         | this is Sarah => these are ->her<- shoes.             |
+| this is Wendy. => this is -><- balloon       | these children are eating => these are-><- ice creams. |
