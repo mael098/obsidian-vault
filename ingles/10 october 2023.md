@@ -149,6 +149,28 @@ add - est to short Adjectives
 
 
 
+ irregular
+
+comparative                             superlative
+
+
+happier                 happy     hasppiest
+
+peter looks happier 
+
+
+
+----
+
+comparative  or superlative?
+(add 'than' or 'the' as needed)
+
+my neighbour's garden is minen tha  . (Small)
+Greg  has been  working here longer than Tina. (long)
+Trish had the best day of her life. (good)
+Mark is going to be more careful than the  last time. ( careful)
+This hotel is the most expensive  in the country.(expensive)
+Felix climbed the tallest mountain in Australia. (tall)
 
 
 
