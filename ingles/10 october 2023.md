@@ -228,3 +228,9 @@ these are their pencitl
 | this is an alien => this is->it´s<-spaceship | this is a monster. => this is ->it´s<- hat.        |
 | this is Jill. => this is -><-flower.         | this is Sarah => these are ->her<- shoes.             |
 | this is Wendy. => this is -><- balloon       | these children are eating => these are-><- ice creams. |
+
+
+can-ability
+
+I  ____can´t(no poder)___ ___talk(hablar)___ french
+

@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "4b34dd2ab2005d8e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "ingles/Drawing 2023-10-19 09.17.12.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "b07c2c4de1d7681a",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ingles/10 october 2023.md",
+                "file": "ingles/Drawing 2023-10-19 09.17.12.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ingles/10 october 2023.md",
+                "file": "ingles/Drawing 2023-10-19 09.17.12.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ingles/10 october 2023.md"
+                "file": "ingles/Drawing 2023-10-19 09.17.12.excalidraw.md"
               }
             }
           },
@@ -179,11 +190,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "97b76f5e7667d15c",
+  "active": "4b34dd2ab2005d8e",
   "lastOpenFiles": [
+    "ingles/10 october 2023.md",
+    "ingles/Drawing 2023-10-19 09.17.12.excalidraw.md",
     "extracuricular/int cunetavelas = 0.md",
     "Untitled.md",
-    "ingles/10 october 2023.md",
     "extracuricular",
     "Pasted image 20231012084811.png",
     "ingles/Drawing 2023-10-12 08.34.05.excalidraw.md",
@@ -220,7 +232,6 @@
     "Pasted image 20230907110704.png",
     "universidad/CALCULO VECTORIAL/Excalidraw/7.excalidraw.md",
     "universidad/CALCULO VECTORIAL/Excalidraw/Drawing 2023-09-04 07.04.22.excalidraw.md",
-    "universidad/CALCULO VECTORIAL/Excalidraw/actividad6 .excalidraw.md",
     "Untitled.canvas",
     "Excalidraw",
     "universidad/INVESTIGACION DE OPERACIONES/Excalidraw",
