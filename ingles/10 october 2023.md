@@ -234,3 +234,20 @@ can-ability
 
 I  ____can´t(no poder)___ ___talk(hablar)___ french
 
+![[Pasted image 20231020155106.png]]
+
+
+![[Pasted image 20231020155413.png]]
+
+
+![[Pasted image 20231020155516.png]]
+
+
+
+ejercicio: 
+![[Pasted image 20231020160407.png]]
+
+![[Pasted image 20231020160744.png]]
+
+
+

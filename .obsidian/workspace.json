@@ -23,9 +23,11 @@
             "id": "4b34dd2ab2005d8e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "ingles/Drawing 2023-10-19 09.17.12.excalidraw.md"
+                "file": "ingles/10 october 2023.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -92,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d76c348f96b287bc",
@@ -108,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ingles/Drawing 2023-10-19 09.17.12.excalidraw.md",
+                "file": "ingles/10 october 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ingles/Drawing 2023-10-19 09.17.12.excalidraw.md",
+                "file": "ingles/10 october 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ingles/Drawing 2023-10-19 09.17.12.excalidraw.md"
+                "file": "ingles/10 october 2023.md"
               }
             }
           },
@@ -192,13 +195,18 @@
   },
   "active": "4b34dd2ab2005d8e",
   "lastOpenFiles": [
-    "ingles/10 october 2023.md",
+    "Pasted image 20231020160744.png",
+    "Pasted image 20231020160407.png",
+    "Pasted image 20231020155516.png",
+    "Pasted image 20231020155413.png",
+    "Pasted image 20231020155106.png",
     "ingles/Drawing 2023-10-19 09.17.12.excalidraw.md",
+    "ingles/Drawing 2023-10-12 08.34.05.excalidraw.md",
+    "ingles/10 october 2023.md",
     "extracuricular/int cunetavelas = 0.md",
     "Untitled.md",
     "extracuricular",
     "Pasted image 20231012084811.png",
-    "ingles/Drawing 2023-10-12 08.34.05.excalidraw.md",
     "trabajos/eliminar poswerd.md",
     "inglres",
     "universidad/estrutura de datos/crear -especifica.md",
@@ -224,14 +232,9 @@
     "Pasted image 20230910222851.png",
     "Pasted image 20230910222838.png",
     "Pasted image 20230910222517.png",
-    "Pasted image 20230910220752.png",
-    "Pasted image 20230910220440.png",
-    "Pasted image 20230909144737.png",
     "universidad/CALCULO VECTORIAL/Excalidraw/Cuadrantes.excalidraw.md",
     "universidad/CALCULO VECTORIAL/Excalidraw/AB.excalidraw.md",
-    "Pasted image 20230907110704.png",
     "universidad/CALCULO VECTORIAL/Excalidraw/7.excalidraw.md",
-    "universidad/CALCULO VECTORIAL/Excalidraw/Drawing 2023-09-04 07.04.22.excalidraw.md",
     "Untitled.canvas",
     "Excalidraw",
     "universidad/INVESTIGACION DE OPERACIONES/Excalidraw",
