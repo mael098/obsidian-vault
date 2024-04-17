@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "8c5dac52a047c68b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tareas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b07c2c4de1d7681a",
             "type": "leaf",
             "state": {
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tareas.md",
+                "file": "universidad/estrutura de datos/crear -especifica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tareas.md",
+                "file": "universidad/estrutura de datos/crear -especifica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tareas.md"
+                "file": "universidad/estrutura de datos/crear -especifica.md"
               }
             }
           },
@@ -206,10 +194,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8c5dac52a047c68b",
+  "active": "4b34dd2ab2005d8e",
   "lastOpenFiles": [
-    "universidad/estrutura de datos/crear -especifica.md",
+    "notas de proyectos/ideas.md",
     "tareas.md",
+    "notas de proyectos",
+    "universidad/estrutura de datos/crear -especifica.md",
     "basededatos",
     "ingles/10 october 2023.md",
     "Pasted image 20231020160744.png",
@@ -253,7 +243,6 @@
     "universidad/INVESTIGACION DE OPERACIONES/Excalidraw",
     "universidad/INVESTIGACION DE OPERACIONES",
     "universidad/INVESTIGACION DE OPERACIONES/Canvas/Historia.canvas",
-    "fisiica",
-    "cultura empresarial"
+    "fisiica"
   ]
 }
