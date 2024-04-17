@@ -17,6 +17,7 @@
 
 
 
+ - revisado
 
 |Concepto|Definiciones|Ejemplos|
 |---|---|---|
@@ -29,3 +30,20 @@
 |Diagrama R|Representación gráfica de las restricciones de integridad referencial entre tablas.|Un diagrama que muestra cómo las tablas de "Empleado" y "Departamento" están relacionadas mediante una clave foránea.|
 |Normalización|Proceso de diseño de bases de datos que se centra en organizar los datos y minimizar la redundancia.|Dividir una tabla grande y poco estructurada en tablas más pequeñas y relacionadas para mejorar la eficiencia y la integridad de los datos.|
 
+
+
+-----
+
+
+
+
+| clients                                  | producto                                  | envios    | ventas       | categorias   |     |
+| ---------------------------------------- | ----------------------------------------- | --------- | ------------ | ------------ | --- |
+| clien_id   int not null auto_inclemental | id_producto int not null auto_inclemental | dirección | tipo de pago | id_categoria |     |
+| correo carchat() not null                | nombre del producto not null              | cp        | fecha        | tipos        |     |
+| nombre not null                          |                                           | ciudad    | hora         | id_producto  |     |
+|                                          |                                           | pais      | id_cliente   |              |     |
+|                                          |                                           | estado    | id_envio     |              |     |
+|                                          |                                           | Id_envio  |              |              |     |
+|                                          |                                           | id_ventas |              |              |     |
+|                                          |                                           | cliente   |              |              |     |
