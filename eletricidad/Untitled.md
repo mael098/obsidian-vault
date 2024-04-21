@@ -1,25 +1,4 @@
 
-# Dispositivo activos 
-
-## el Diodo (ideal)
-
-el diodo ideal es un componente discreto (0 o 1) (todo o nada) que permite la circulanción de corriente  entre sus terminales en un determinado sentido mientra que la bloquea  en el sentido contrario
-
-- en figuras 1 se muestran el simbolo y la curva caracteristicas voltaje - intencidad  del funcionamiento del diodo ideal. el sentido permitido para la corriente es de anodo (a) a catodo (k) (indicado por la flecha). 
-
-
-
-
-
---------
-el diodo ideal  es un componente que presenta resistencia nula al paso de la corriente en un determinante infinita en el sentido opuesto. la
-punta de la flecha del símbolo 
-de la figura 1 indica el sentido permitido de la corriente.
-
-
----
-
-
 ## introducción  diodo y unión p-n
 
 El video cubre los conceptos básicos del diodo y su funcionamiento como un semiconductor basado en la unión p-n. Se explica cómo el diodo conduce corriente cuando se polariza en directa con un voltaje superior al potencial de barrera, permitiendo el flujo de electrones. También se aborda la diferencia entre la dirección convencional de la corriente y el flujo real de electrones. Se proporcionan gráficas que ilustran la relación entre el voltaje y la corriente en un diodo.

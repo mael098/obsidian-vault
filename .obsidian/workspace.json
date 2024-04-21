@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eletricidad/apuntes.md",
+                "file": "eletricidad/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eletricidad/apuntes.md",
+                "file": "eletricidad/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eletricidad/apuntes.md",
+                "file": "eletricidad/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eletricidad/apuntes.md"
+                "file": "eletricidad/Untitled.md"
               }
             }
           },
@@ -196,8 +196,9 @@
   },
   "active": "a9b08451f5859b4e",
   "lastOpenFiles": [
-    "eletricidad/Drawing 2024-04-18 10.20.08.excalidraw.md",
     "eletricidad/apuntes.md",
+    "eletricidad/Untitled.md",
+    "eletricidad/Drawing 2024-04-18 10.20.08.excalidraw.md",
     "Untitled.md",
     "tareas.md",
     "eletricidad",
@@ -235,7 +236,6 @@
     "universidad/CALCULO VECTORIAL/Excalidraw/Vectores.excalidraw.md",
     "universidad/CALCULO VECTORIAL/Excalidraw/problema razonados con vectores.excalidraw.md",
     "universidad/INVESTIGACION DE OPERACIONES/Excalidraw/Drawing 2023-09-09 12.10.41.excalidraw.md",
-    "universidad/CALCULO VECTORIAL/ejersicio.excalidraw.md",
     "Pasted image 20230911194248.png",
     "Pasted image 20230910222901.png",
     "Pasted image 20230910222851.png",
