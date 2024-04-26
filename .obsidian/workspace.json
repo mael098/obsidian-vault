@@ -6,6 +6,7 @@
       {
         "id": "0e170a78924b10b9",
         "type": "tabs",
+        "dimension": 42.31974921630094,
         "children": [
           {
             "id": "a9b08451f5859b4e",
@@ -24,6 +25,7 @@
       {
         "id": "b90c5ca267abfd6a",
         "type": "tabs",
+        "dimension": 57.68025078369906,
         "children": [
           {
             "id": "11acddec06f43658",
@@ -102,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "basededatos/Drawing 2024-04-22 10.54.33.excalidraw.md",
+                "file": "basededatos/tareas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "basededatos/Drawing 2024-04-22 10.54.33.excalidraw.md",
+                "file": "basededatos/tareas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "basededatos/Drawing 2024-04-22 10.54.33.excalidraw.md"
+                "file": "basededatos/tareas.md"
               }
             }
           },
@@ -186,10 +188,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "11acddec06f43658",
+  "active": "a9b08451f5859b4e",
   "lastOpenFiles": [
-    "basededatos/tareas.md",
     "basededatos/Drawing 2024-04-22 10.54.33.excalidraw.md",
+    "basededatos/tareas.md",
     "eletricidad/apuntes.md",
     "basededatos/base de datos.md",
     "trabajos/objetivos.md",
