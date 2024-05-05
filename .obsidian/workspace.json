@@ -31,9 +31,11 @@
             "id": "11acddec06f43658",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "basededatos/Drawing 2024-04-22 10.54.33.excalidraw.md"
+                "file": "basededatos/Fundamentos de DB.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -87,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d76c348f96b287bc",
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "basededatos/Drawing 2024-04-22 10.54.33.excalidraw.md",
+                "file": "basededatos/Fundamentos de DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "basededatos/Drawing 2024-04-22 10.54.33.excalidraw.md",
+                "file": "basededatos/Fundamentos de DB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "basededatos/Drawing 2024-04-22 10.54.33.excalidraw.md"
+                "file": "basededatos/Fundamentos de DB.md"
               }
             }
           },
@@ -190,8 +191,10 @@
   },
   "active": "11acddec06f43658",
   "lastOpenFiles": [
-    "basededatos/tareas.md",
     "basededatos/Drawing 2024-04-22 10.54.33.excalidraw.md",
+    "basededatos/Fundamentos de DB.md",
+    "Untitled",
+    "basededatos/tareas.md",
     "eletricidad/apuntes.md",
     "basededatos/base de datos.md",
     "trabajos/objetivos.md",
@@ -229,7 +232,6 @@
     "universidad/INVESTIGACION DE OPERACIONES/Excalidraw/fabricante de tubos de plástico.excalidraw.md",
     "universidad/CALCULO VECTORIAL/Calculo Vectorial.md",
     "universidad/CALCULO VECTORIAL/Excalidraw/Vectores.excalidraw.md",
-    "universidad/CALCULO VECTORIAL/Excalidraw/problema razonados con vectores.excalidraw.md",
     "Pasted image 20230911194248.png",
     "Pasted image 20230910222901.png",
     "Pasted image 20230910222851.png",
@@ -237,7 +239,6 @@
     "Untitled.canvas",
     "Excalidraw",
     "universidad/INVESTIGACION DE OPERACIONES/Excalidraw",
-    "universidad/INVESTIGACION DE OPERACIONES",
     "universidad/INVESTIGACION DE OPERACIONES/Canvas/Historia.canvas"
   ]
 }
