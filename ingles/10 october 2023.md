@@ -298,5 +298,19 @@ connectors
 6. didn't
 7. interesting
 8. returned
+---
+
+
+
+ Gammar
+ complete the begged me to listen.
+1. My motherer begged me to listen _ _ on_ _ her ---->bien
+2. The stranger stared  _ _for _ _  me in surprise. --->
+5. They saved me _ _  at _ _ certain death. --->
+6. In the last election I voted _ _ for _ _ certain death. --->bien
+7. Afte I heard what had happened, I apologised _ _ on _ _ him. --->
+8. I borrowed the car keys _ _ _ to _ _ _ my best friend.--->
+9. we agreed _ _ for  _ _ atteding the meeting separately ---->
+
 
 
