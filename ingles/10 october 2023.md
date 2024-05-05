@@ -253,4 +253,27 @@ ejercicio:
 
 
 
-    
+
+-----
+connectors
+
+1. _ _ _ _ _  their German was very bad, they could communicate with the shop assistant.
+  -  Since 
+  - As
+  - Although 
+
+
+2. _ _ _ _ _ _ all her  friends were on holiday, she stayed in.
+- bacause of  
+- Since -
+- for
+
+3. They closed the theme park _ _ _ _  the great losses.
+- because of -
+- despite
+- although
+
+4. the police cordoned off (= cerró) the area _ _ _ _ _ private cars shouldn´t drive in.
+- in order
+- so that -
+- for that
