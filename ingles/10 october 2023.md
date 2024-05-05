@@ -260,7 +260,7 @@ connectors
 1. _ _ _ _ _  their German was very bad, they could communicate with the shop assistant.
   -  Since 
   - As
-  - Although 
+  - Although -
 
 
 2. _ _ _ _ _ _ all her  friends were on holiday, she stayed in.
@@ -277,3 +277,26 @@ connectors
 - in order
 - so that -
 - for that
+
+
+
+----
+
+1. _ worked
+2. _  didn´t
+3. _ why
+4. _ friend
+5. _ went
+6. _happy
+---
+
+1. - went   
+2. - have
+3. friendly
+4. fantastic
+5. delicius
+6. didn't
+7. interesting
+8. returned
+
+

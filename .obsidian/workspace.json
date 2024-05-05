@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "0e170a78924b10b9",
-        "type": "tabs",
-        "dimension": 35.97785977859779,
-        "children": [
-          {
-            "id": "a9b08451f5859b4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "basededatos/tareas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "b90c5ca267abfd6a",
         "type": "tabs",
-        "dimension": 64.02214022140221,
         "children": [
           {
             "id": "11acddec06f43658",
