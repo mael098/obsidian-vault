@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b90c5ca267abfd6a",
+        "id": "eec8f5a923a62288",
         "type": "tabs",
         "children": [
           {
-            "id": "11acddec06f43658",
+            "id": "8fbc7429cb06563a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ingles/10 october 2023.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 403.50499725341797
   },
   "right": {
     "id": "d76c348f96b287bc",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ingles/10 october 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ingles/10 october 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ingles/10 october 2023.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,15 +161,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "11acddec06f43658",
+  "active": "8fbc7429cb06563a",
   "lastOpenFiles": [
-    "ingles/Drawing 2023-10-12 08.34.05.excalidraw.md",
-    "ingles/10 october 2023.md",
-    "basededatos/Fundamentos de DB.md",
     "basededatos/Drawing 2024-04-22 10.54.33.excalidraw.md",
-    "basededatos/base de datos.md",
-    "Untitled",
     "basededatos/tareas.md",
+    "basededatos/Fundamentos de DB.md",
+    "basededatos/img/Pasted image 20240426102810.png",
+    "basededatos/img/Pasted image 20240426102750.png",
+    "basededatos/img/Pasted image 20240426102012.png",
+    "basededatos/img/Fundamentos de DB 2024-04-26 10.08.32.excalidraw.md",
+    "basededatos/img/Fundamentos de DB 2024-04-22 11.06.54.excalidraw.md",
+    "basededatos/img/Pasted image 20240207113804.png",
+    "basededatos/img/erp1.png",
+    "basededatos/base de datos.md",
+    "basededatos/img",
+    "ingles/10 october 2023.md",
+    "ingles/Untitled",
+    "ingles/Drawing 2023-10-12 08.34.05.excalidraw.md",
+    "Untitled",
     "eletricidad/apuntes.md",
     "trabajos/objetivos.md",
     "eletricidad/Untitled.md",
@@ -201,7 +202,6 @@
     "Pasted image 20231020155106.png",
     "ingles/Drawing 2023-10-19 09.17.12.excalidraw.md",
     "extracuricular",
-    "Pasted image 20231012084811.png",
     "inglres",
     "ingles",
     "universidad/CALCULO VECTORIAL/Drawing 2023-10-09 01.39.59.excalidraw.md",
@@ -209,16 +209,7 @@
     "universidad/INVESTIGACION DE OPERACIONES/Investigacion de Operaciones.md",
     "universidad/estrutura de datos",
     "universidad/INVESTIGACION DE OPERACIONES/Excalidraw/ww2.excalidraw.md",
-    "universidad/INVESTIGACION DE OPERACIONES/Excalidraw/fabricante de tubos de plástico.excalidraw.md",
-    "universidad/CALCULO VECTORIAL/Calculo Vectorial.md",
-    "universidad/CALCULO VECTORIAL/Excalidraw/Vectores.excalidraw.md",
-    "Pasted image 20230911194248.png",
-    "Pasted image 20230910222901.png",
-    "Pasted image 20230910222851.png",
-    "Pasted image 20230910222838.png",
     "Untitled.canvas",
-    "Excalidraw",
-    "universidad/INVESTIGACION DE OPERACIONES/Excalidraw",
     "universidad/INVESTIGACION DE OPERACIONES/Canvas/Historia.canvas"
   ]
 }

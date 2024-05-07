@@ -11,8 +11,8 @@ Comprende y aplica los conceptos basicos de logica matematica, conjuntos y relac
 
 **informacion:**
 > conjunto de datos relacionados que dan un contexto
-
 ![[erp1.png]]
+
 
 ---
 
@@ -153,4 +153,6 @@ Tarea
 ![[Fundamentos de DB 2024-04-26 10.08.32.excalidraw]]
  
  ![[Pasted image 20240426102810.png]]
- 
+ ----
+
+[[Drawing 2024-04-22 10.54.33.excalidraw]]
