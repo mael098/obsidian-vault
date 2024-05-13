@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eletricidad/apuntes.md",
+                "file": "basededatos/Fundamentos de DB.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.50499725341797
+    "width": 403.50499725341797,
+    "collapsed": true
   },
   "right": {
     "id": "d76c348f96b287bc",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eletricidad/apuntes.md",
+                "file": "basededatos/Fundamentos de DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eletricidad/apuntes.md",
+                "file": "basededatos/Fundamentos de DB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eletricidad/apuntes.md"
+                "file": "basededatos/Fundamentos de DB.md"
               }
             }
           },
@@ -171,8 +172,9 @@
   },
   "active": "d981bbb0cee3c02f",
   "lastOpenFiles": [
-    "eletricidad/Untitled.md",
+    "basededatos/base de datos.md",
     "eletricidad/apuntes.md",
+    "eletricidad/Untitled.md",
     "basededatos/Drawing 2024-04-22 10.54.33.excalidraw.md",
     "basededatos/tareas.md",
     "basededatos/Fundamentos de DB.md",
@@ -183,7 +185,6 @@
     "basededatos/img/Fundamentos de DB 2024-04-22 11.06.54.excalidraw.md",
     "basededatos/img/Pasted image 20240207113804.png",
     "basededatos/img/erp1.png",
-    "basededatos/base de datos.md",
     "basededatos/img",
     "ingles/10 october 2023.md",
     "ingles/Untitled",

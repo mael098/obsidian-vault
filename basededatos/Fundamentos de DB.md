@@ -155,4 +155,86 @@ Tarea
  ![[Pasted image 20240426102810.png]]
  ----
 
-[[Drawing 2024-04-22 10.54.33.excalidraw]]
+
+
+
+select => la instrucción  select en SQL se utiliza para seleccionar datos de una base de datos. Los datos de vueltos se  almacenan en una tabla de resultados llamada conjunto de resultados.
+
+
+```sql
+SELECT column1, column2, ...
+```
+
+
+from :  =>  la clausula from de SQL es el origen de un conjunto de filas sobre el que se va a operar en un instrucción de lenguaje de manipulación de datos 
+```SQL
+FROM table_name;
+```
+
+where =>La **cláusula WHERE** en SQL es fundamental para filtrar datos en una consulta. Permite incluir solo las filas que cumplen ciertas condiciones. 
+```SQL
+SELECT title, author_name, year
+FROM books
+WHERE year >= 2020
+ORDER BY author_name;
+```
+
+
+like =>
+El SQL `LIKE` es un operador lógico que comprueba si una cadena contiene o no un patrón específico.
+```SQL
+SELECT column_1, column_2, ... column_n
+FROM table_name
+WHERE column_1 LIKE pattern
+```
+
+,and=> **AND**: Este operador se utiliza para combinar múltiples condiciones en una consulta. Devolverá todas las filas que cumplan **todas** las condiciones dadas.
+```SQL
+SELECT * FROM members WHERE Age < 50 AND Location = 'Los Angeles';
+```
+
+order  by => La **cláusula ORDER BY** en SQL se utiliza para organizar los resultados de una consulta en un orden específico.
+```SQL
+SELECT * FROM sales_performance ORDER BY sales_person_id;
+```
+
+asc =>  - **ASC** es la forma corta de “ascendente”. Se utiliza para ordenar los resultados de la consulta de arriba hacia abajo.
+```SQL
+SELECT columna1, columna2
+FROM tabla
+ORDER BY columna1 ASC/DESC;
+```
+
+desc => - **DESC** es la forma corta de “descendente”. Se utiliza para ordenar los resultados de la consulta de abajo hacia arriba.
+```SQL
+SELECT columna1, columna2
+FROM tabla
+ORDER BY columna1 ASC/DESC;
+```
+
+ Group By =>**GROUP BY** te permite agrupar datos por un atributo común y realizar cálculos en cada grupo por separado.
+ ```SQL
+ SELECT director,
+
+      count (*)  AS number_of_movies
+
+FROM movies
+
+GROUP BY director;
+```
+
+count => La función **COUNT()** en SQL se utiliza para contar filas. Específicamente, cuenta las filas en el conjunto de resultados, no en la tabla directamente. Aquí tienes algunos detalles sobre su uso 
+```SQL
+SELECT COUNT(*) AS total_filas
+FROM nombre_de_tabla;
+```
+, as =>La cláusula Alias (AS) es un comando que se utiliza para asignar un nombre alternativo a una tabla o columna en una consulta SQL. Esto significa que puedes cambiar el nombre de una tabla o columna para que sea más fácil de entender o de recordar.
+```SQL
+
+
+```
+, avg
+, having 
+, join
+, on , 
+
