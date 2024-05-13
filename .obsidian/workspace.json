@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "eec8f5a923a62288",
+        "id": "6756a5bb1111624d",
         "type": "tabs",
         "children": [
           {
-            "id": "8fbc7429cb06563a",
+            "id": "d981bbb0cee3c02f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "eletricidad/apuntes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "eletricidad/apuntes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "eletricidad/apuntes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "eletricidad/apuntes.md"
+              }
             }
           },
           {
@@ -161,8 +169,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8fbc7429cb06563a",
+  "active": "d981bbb0cee3c02f",
   "lastOpenFiles": [
+    "eletricidad/Untitled.md",
+    "eletricidad/apuntes.md",
     "basededatos/Drawing 2024-04-22 10.54.33.excalidraw.md",
     "basededatos/tareas.md",
     "basededatos/Fundamentos de DB.md",
@@ -179,9 +189,7 @@
     "ingles/Untitled",
     "ingles/Drawing 2023-10-12 08.34.05.excalidraw.md",
     "Untitled",
-    "eletricidad/apuntes.md",
     "trabajos/objetivos.md",
-    "eletricidad/Untitled.md",
     "eletricidad/Drawing 2024-04-18 10.20.08.excalidraw.md",
     "Untitled.md",
     "eletricidad",

@@ -3,7 +3,7 @@
 
 ## el Diodo (ideal)
 
-el diodo ideal es un componente discreto (0 o 1) (todo o nada) que permite la circulanción de corriente  entre sus terminales en un determinado sentido mientra que la bloquea  en el sentido contrario
+el diodo ideal es un componente discreto (0 o 1) (todo o nada) que permite la circulanción de corriente  entre sus terminales en un  determinado sentido mientra que la bloquea  en el sentido contrario
 
 - en figuras 1 se muestran el simbolo y la curva caracteristicas voltaje - intencidad  del funcionamiento del diodo ideal. el sentido permitido para la corriente es de anodo (a) a catodo (k) (indicado por la flecha). 
 
@@ -41,3 +41,23 @@ Se presenta una gráfica que muestra la relación entre la corriente y el voltaj
 ## Polarización inversa del diodo 
 
 Al final, se plantea la pregunta de qué sucedería si se polariza el diodo en inversa, lo cual se abordará en un video posterior.
+
+
+	1. aplificacion  operacioneles 
+	2. configuraciones 
+	3. seguidor unitario
+	4. com
+
+
+
+
+
+
+
+------
+# tareas 
+
+investigar  
+practicar 
+
+
