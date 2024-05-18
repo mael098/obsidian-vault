@@ -230,11 +230,38 @@ FROM nombre_de_tabla;
 ```
 , as =>La cláusula Alias (AS) es un comando que se utiliza para asignar un nombre alternativo a una tabla o columna en una consulta SQL. Esto significa que puedes cambiar el nombre de una tabla o columna para que sea más fácil de entender o de recordar.
 ```SQL
-
-
+SELECT nombre_completo AS nombre FROM empleados
 ```
-, avg
-, having 
-, join
-, on , 
+, avg => La función **AVG()** en SQL se utiliza para encontrar el promedio de valores sobre los registros de una tabla.
+```SQL
+SELECT AVG(skill_level) FROM employees;
+```
+
+
+, having =>- **Concepto:** La cláusula HAVING se utiliza en SQL para filtrar filas después de que se hayan agrupado utilizando la cláusula GROUP BY. Permite aplicar condiciones a grupos de filas, similar a cómo WHERE se aplica a filas individuales.
+```SQL
+SELECT producto, SUM(cantidad) AS total_cantidad
+FROM ventas
+GROUP BY producto
+HAVING SUM(cantidad) > 100;
+```
+
+
+, join=> - **Concepto:** JOIN se utiliza para combinar filas de dos o más tablas en función de una condición relacionada entre ellas. Se pueden utilizar diferentes tipos de JOIN, como INNER JOIN, LEFT JOIN, RIGHT JOIN y FULL JOIN, para controlar qué filas se incluyen en el resultado final.
+```SQL
+SELECT clientes.nombre, pedidos.producto, pedidos.cantidad
+FROM clientes
+JOIN pedidos ON clientes.id = pedidos.id_cliente;
+```
+
+, on => - **Concepto:** La cláusula ON se utiliza en combinación con la cláusula JOIN para especificar las condiciones de unión entre las tablas. Indica cómo se relacionan las filas de una tabla con las de otra en el resultado de la consulta.
+
+```SQL
+SELECT clientes.nombre, pedidos.producto, pedidos.cantidad
+FROM clientes
+JOIN pedidos ON clientes.id = pedidos.id_cliente;
+```
+
+
+
 
