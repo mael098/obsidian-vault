@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basededatos/Fundamentos de DB.md",
+                "file": "ingles/10 october 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.50499725341797,
-    "collapsed": true
+    "width": 403.50499725341797
   },
   "right": {
     "id": "d76c348f96b287bc",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "basededatos/Fundamentos de DB.md",
+                "file": "ingles/10 october 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "basededatos/Fundamentos de DB.md",
+                "file": "ingles/10 october 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "basededatos/Fundamentos de DB.md"
+                "file": "ingles/10 october 2023.md"
               }
             }
           },
@@ -170,10 +169,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d981bbb0cee3c02f",
+  "active": "6379b1a5d8338e94",
   "lastOpenFiles": [
-    "basededatos/img/Pasted image 20240207113804.png",
+    "trabajos/objetivos.md",
+    "notas de proyectos/ideas.md",
+    "ingles/10 october 2023.md",
     "basededatos/Fundamentos de DB.md",
+    "basededatos/img/Pasted image 20240207113804.png",
     "basededatos/base de datos.md",
     "eletricidad/apuntes.md",
     "eletricidad/Untitled.md",
@@ -186,18 +188,15 @@
     "basededatos/img/Fundamentos de DB 2024-04-22 11.06.54.excalidraw.md",
     "basededatos/img/erp1.png",
     "basededatos/img",
-    "ingles/10 october 2023.md",
     "ingles/Untitled",
     "ingles/Drawing 2023-10-12 08.34.05.excalidraw.md",
     "Untitled",
-    "trabajos/objetivos.md",
     "eletricidad/Drawing 2024-04-18 10.20.08.excalidraw.md",
     "Untitled.md",
     "eletricidad",
     "Untitled 1.canvas",
     "2024-04-16.md",
     "cultura empresarial/estado de privacion que sufre una persona.md",
-    "notas de proyectos/ideas.md",
     "fisiica/apuntes.md",
     "extracuricular/int cunetavelas = 0.md",
     "Excalidraw/Drawing 2023-09-02 15.34.59.excalidraw.md",

@@ -314,3 +314,40 @@ connectors
 
 
 
+
+
+----
+#tenses 
+
+| past simple                                           | past continuous                                                 | present perfect simple                      | present perfect Continuous                                            |
+| ----------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------- | --------------------------------------------------------------------- |
+| had + participle                                      | had been + ing                                                  | will/won`t + verb am/are/is going to + verb | will/won`t be`+ ing                                                   |
+| se refiere a un hecho ocurrido en un momento anterior | habiamos estado haciendo algo cuando  otra accion lo interrupió | acciones rapidas o planes futuros           | acciones  que estaran en progreso en un momento especifico del futuro |
+
+
+#tenses
+
+
+| future Present Simple             | future present continouos                 |
+| --------------------------------- | ----------------------------------------- |
+| will have/won´t have + participle | will have been/won´t  have been +ing      |
+| acciones que se completarian      | acciones que se realizaron todo el tiempo |
+
+Examples
+
+
+- the weather around here _ has been _ _ terrible in the last few  weeks.(be)
+- Maria  _ _ _packed _ _ _ her suitcase last night (pack)
+- there´s nothing on your exam paper. you started an hour ago. what _ _ have you been  _ _ up to now? (you do)
+- shall i buy a pizza?- There's no need. I _ _ will cook _ _ (cook) as usual.
+
+
+---
+
+#mixed #tenses
+
+1. she _ _ _ _ _ _ _ _ _ _ _ _ (have) a beautiful dream where the alarm clock  _ _ _ _ _ _ (ring).
+2. When _ _ _ _ _ _ (you/buy) the car? - I _ _ _ _ _ _ _ _ (buy) it a few years ago.
+3. I _ _ _ _ _ _ _ _ (carch) a cold in school a few days ago and _ _ _ _ _ _ ill aver since(be)
+
+
