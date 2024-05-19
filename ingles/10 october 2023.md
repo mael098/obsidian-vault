@@ -346,8 +346,24 @@ Examples
 
 #mixed #tenses
 
-1. she _ _ _ _ _ _ _ _ _ _ _ _ (have) a beautiful dream where the alarm clock  _ _ _ _ _ _ (ring).
-2. When _ _ _ _ _ _ (you/buy) the car? - I _ _ _ _ _ _ _ _ (buy) it a few years ago.
-3. I _ _ _ _ _ _ _ _ (carch) a cold in school a few days ago and _ _ _ _ _ _ ill aver since(be)
+1. she _ _ was having _ _ (have) a beautiful dream where the alarm clock  _ _ _rang _ _ _ (ring).
+2. When _ _ _did you buy  _ _ _ (you/buy) the car? - I _ _ _ _Bought_ _ _ _ (buy) it a few years ago.
+3. I _ _ _caught _ _ _ _ (carch) a cold in school a few days ago and _ _ hav been _ _ ill aver since(be)
+
+4. he  _ fell _ (fall) off the ladder and _ _ broke _ _ (break) his ankie. that's why he _ hasn´t  bee_ _ _ (not / be) in school for a while.
+
+
+write on the line the correct tense.
+
+1. Did you see him? Even that I told you not to do it. **Past simple** (Pasado simple)
+2. I’m so tired. I have walked all the way to the underground station. **Present perfect**
+3. (Presente perfecto)
+4. He broke his leg when he was hiking. **Past simple** (Pasado simple) y **Past continuous**
+(Pasado continuo)
+5. Dinosaurs wandered around the earth millions of years ago. **Past simple** 
+(Pasado simple)
+6. Has your business course started yet? **Present perfect** 
+(Presente perfecto)
+
 
 
