@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ingles/10 october 2023.md",
+                "file": "basededatos/Fundamentos de DB.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.50499725341797,
-    "collapsed": true
+    "width": 266.5110321044922
   },
   "right": {
     "id": "d76c348f96b287bc",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ingles/10 october 2023.md",
+                "file": "basededatos/Fundamentos de DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ingles/10 october 2023.md",
+                "file": "basededatos/Fundamentos de DB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ingles/10 october 2023.md"
+                "file": "basededatos/Fundamentos de DB.md"
               }
             }
           },
@@ -172,16 +171,16 @@
   },
   "active": "d981bbb0cee3c02f",
   "lastOpenFiles": [
+    "basededatos/tareas.md",
+    "basededatos/Fundamentos de DB.md",
+    "basededatos/base de datos.md",
+    "ingles/10 october 2023.md",
     "trabajos/objetivos.md",
     "notas de proyectos/ideas.md",
-    "ingles/10 october 2023.md",
-    "basededatos/Fundamentos de DB.md",
     "basededatos/img/Pasted image 20240207113804.png",
-    "basededatos/base de datos.md",
     "eletricidad/apuntes.md",
     "eletricidad/Untitled.md",
     "basededatos/Drawing 2024-04-22 10.54.33.excalidraw.md",
-    "basededatos/tareas.md",
     "basededatos/img/Pasted image 20240426102810.png",
     "basededatos/img/Pasted image 20240426102750.png",
     "basededatos/img/Pasted image 20240426102012.png",

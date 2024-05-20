@@ -264,4 +264,30 @@ JOIN pedidos ON clientes.id = pedidos.id_cliente;
 
 
 
+----
 
+# data base
+
+ejercisio 1
+
+tabla 
+
+
+```SQL 
+create database ejercio1
+use ejercio1
+
+create table (
+id var('30')
+)
+
+create table peliculas (
+id in not null autoincremental
+titulo_peli, 
+ratik,
+año_extreno,
+presupuesto ,
+ingresos, 
+lenguaje 
+);
+```
