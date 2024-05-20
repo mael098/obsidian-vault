@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.50499725341797
+    "width": 403.50499725341797,
+    "collapsed": true
   },
   "right": {
     "id": "d76c348f96b287bc",
@@ -169,7 +170,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6379b1a5d8338e94",
+  "active": "d981bbb0cee3c02f",
   "lastOpenFiles": [
     "trabajos/objetivos.md",
     "notas de proyectos/ideas.md",

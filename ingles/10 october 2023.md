@@ -355,15 +355,31 @@ Examples
 
 write on the line the correct tense.
 
-1. Did you see him? Even that I told you not to do it. **Past simple** (Pasado simple)
-2. I’m so tired. I have walked all the way to the underground station. **Present perfect**
-3. (Presente perfecto)
-4. He broke his leg when he was hiking. **Past simple** (Pasado simple) y **Past continuous**
+1. Did you see him? Even that I told you not to do it. 
+**Past simple** good
+(Pasado simple)
+3. I’m so tired. I have walked all the way to the underground station. **Present perfect ______**
+(Presente perfecto simple)
+4. He broke his leg when he was hiking. **Past simple** (Pasado simple) y **Past continuous** good
 (Pasado continuo)
-5. Dinosaurs wandered around the earth millions of years ago. **Past simple** 
+5. Dinosaurs wandered around the earth millions of years ago. **Past simple** good
 (Pasado simple)
 6. Has your business course started yet? **Present perfect** 
-(Presente perfecto)
+(Presente perfecto simple)
 
 
+----
 
+(you/mix water and electricity/you /get shock)
+
+If you mix water and electricity, you get a shock.
+
+(you/heat ice /it /melt)
+If you heat ice, it melts.
+
+----
+
+take sentence with the first conditional
+
+if we _ _ _ wait_ _ _ _ _ (wait) here, we _ _ _ will be_ _ _ (be) late. 
+if the weather _ _ dosen´t improve _ _ _ (not / improve), we _ _ _ wont have _ _ _ (not/have) a picnic
