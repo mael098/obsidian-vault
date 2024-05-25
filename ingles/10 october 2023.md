@@ -383,3 +383,44 @@ take sentence with the first conditional
 
 if we _ _ _ wait_ _ _ _ _ (wait) here, we _ _ _ will be_ _ _ (be) late. 
 if the weather _ _ dosen´t improve _ _ _ (not / improve), we _ _ _ wont have _ _ _ (not/have) a picnic
+
+
+
+
+----
+# third Conditional
+
+| if  clause                                                 | main clause                                                      |
+| ---------------------------------------------------------- | ---------------------------------------------------------------- |
+| if + past perfect                                          | would/could/might+have+verb participle                           |
+| if i had won the lottery, if you hadn´t lied to me bofore, | I would have traveled around the word. I wold have believed you. |
+
+
+Put the into the  correct tense to make the third condicional.
+
+if she  _ _ _  _ _ _ _ (go) to university, the _ _ _ _ _ _  (study) French.
+
+if he _ _ _ _ _  (take) the job, he _ _ _ _ _ _ (not/go) travelling
+
+
+
+
+----
+conditionals
+
+which type of the conditional  is used 
+if
+
+
+--------
+
+
+
+
+conditionals
+
+
+1.  if you water the trees, the ground  _ _do _ _ (not/dry out)
+2. if she _ _ _will come _ _ _ (come) back late to the party, I will be angry.
+3. if we _ _ _ have  arrived _ _ _ (arrive) earlier, we  would have seen john.
+4. if she cleaned her room more often her boyfriend _  bvisited _ (visit) her more often.

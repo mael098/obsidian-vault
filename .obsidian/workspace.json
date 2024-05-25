@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basededatos/Fundamentos de DB.md",
+                "file": "ingles/10 october 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5110321044922
+    "width": 266.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "d76c348f96b287bc",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "basededatos/Fundamentos de DB.md",
+                "file": "ingles/10 october 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "basededatos/Fundamentos de DB.md",
+                "file": "ingles/10 october 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "basededatos/Fundamentos de DB.md"
+                "file": "ingles/10 october 2023.md"
               }
             }
           },
@@ -171,8 +172,8 @@
   },
   "active": "d981bbb0cee3c02f",
   "lastOpenFiles": [
-    "basededatos/tareas.md",
     "basededatos/Fundamentos de DB.md",
+    "basededatos/tareas.md",
     "basededatos/base de datos.md",
     "ingles/10 october 2023.md",
     "trabajos/objetivos.md",
