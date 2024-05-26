@@ -442,8 +442,21 @@ ely  Feel hongry
 - Become
 - asdrublal Become enginer
 - Taste
-- ely_ya Taste a car
+- ely_ya Taste a car 
+----
+readign
 
+
+I´D _ _ will _ _ staying  in city centre.
+
+
+you _ _ recommend _ _ try  the local food while yo're here.
+
+the national Mauseum is _ _ must-see _ _ going to.
+
+your kids _ _ will _ _ love it.
+the castle is a _ _  _ _ attraction.
+ano
 
 
 
