@@ -447,16 +447,36 @@ ely  Feel hongry
 readign
 
 
-I´D _ _ will _ _ staying  in city centre.
+I´D _ _ recommend _ _ staying  in city centre.
 
 
-you _ _ recommend _ _ try  the local food while yo're here.
+you _ should _ try  the local food while yo're here.
 
-the national Mauseum is _ _ must-see _ _ going to.
+the national Mauseum is _ _ must-see_ _ going to.
 
 your kids _ _ will _ _ love it.
-the castle is a _ _  _ _ attraction.
-ano
+
+the castle is a _ _ should _ _ attraction.
+
+another thing  thing  that´s worth _ _ _ _ is a walking tour of the  old  town.
+
+----
+
+
+- lovely
+- recommend
+- should
+- see
+- worth
+- p.s
+
+
+
+
+
+
+
+
 
 
 
