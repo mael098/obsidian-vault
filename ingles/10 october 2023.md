@@ -420,7 +420,30 @@ if
 conditionals
 
 
-1.  if you water the trees, the ground  _ _do _ _ (not/dry out)
+1.  if you water the trees, the ground  _ _would not _ _ (not/dry out)
 2. if she _ _ _will come _ _ _ (come) back late to the party, I will be angry.
 3. if we _ _ _ have  arrived _ _ _ (arrive) earlier, we  would have seen john.
-4. if she cleaned her room more often her boyfriend _  bvisited _ (visit) her more often.
+4. if she cleaned her room more often her boyfriend _visited _ (visit) her more often.
+
+
+
+write  the correct tense of sentences.
+
+1. My best friend and i have known each for 15 years. _ presen pefect simple _ _ _ 
+2. what were you doing  when  you doing  when the headmaster entered the 
+----
+# linking verbs
+write a sentence with  each copulative verb.
+
+- be (is/ are)
+ivan is small
+- Feel: 
+ely  Feel hongry  
+- Become
+- asdrublal Become enginer
+- Taste
+- ely_ya Taste a car
+
+
+
+

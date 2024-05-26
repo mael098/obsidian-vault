@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6756a5bb1111624d",
+        "id": "57c50e6469e33635",
         "type": "tabs",
         "children": [
           {
-            "id": "d981bbb0cee3c02f",
+            "id": "d1d27d5c2b43e698",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -170,12 +170,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d981bbb0cee3c02f",
+  "active": "d1d27d5c2b43e698",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Untitled.md",
+    "Untitled.canvas",
+    "README.md",
+    "ingles/10 october 2023.md",
     "basededatos/Fundamentos de DB.md",
     "basededatos/tareas.md",
     "basededatos/base de datos.md",
-    "ingles/10 october 2023.md",
     "trabajos/objetivos.md",
     "notas de proyectos/ideas.md",
     "basededatos/img/Pasted image 20240207113804.png",
@@ -193,9 +197,7 @@
     "ingles/Drawing 2023-10-12 08.34.05.excalidraw.md",
     "Untitled",
     "eletricidad/Drawing 2024-04-18 10.20.08.excalidraw.md",
-    "Untitled.md",
     "eletricidad",
-    "Untitled 1.canvas",
     "2024-04-16.md",
     "cultura empresarial/estado de privacion que sufre una persona.md",
     "fisiica/apuntes.md",
@@ -217,8 +219,6 @@
     "universidad/CALCULO VECTORIAL/Untitled.md",
     "universidad/INVESTIGACION DE OPERACIONES/Investigacion de Operaciones.md",
     "universidad/estrutura de datos",
-    "universidad/INVESTIGACION DE OPERACIONES/Excalidraw/ww2.excalidraw.md",
-    "Untitled.canvas",
     "universidad/INVESTIGACION DE OPERACIONES/Canvas/Historia.canvas"
   ]
 }
