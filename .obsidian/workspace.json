@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ingles/10 october 2023.md",
+                "file": "fisiica/apuntes.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5110321044922,
-    "collapsed": true
+    "width": 266.5110321044922
   },
   "right": {
     "id": "d76c348f96b287bc",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ingles/10 october 2023.md",
+                "file": "fisiica/apuntes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ingles/10 october 2023.md",
+                "file": "fisiica/apuntes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ingles/10 october 2023.md"
+                "file": "fisiica/apuntes.md"
               }
             }
           },
@@ -170,13 +169,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d1d27d5c2b43e698",
+  "active": "6379b1a5d8338e94",
   "lastOpenFiles": [
+    "matematicas",
+    "extracuricular/int cunetavelas = 0.md",
+    "README.md",
+    "Pasted image 20231020160744.png",
+    "ingles/10 october 2023.md",
     "Untitled 1.canvas",
     "Untitled.md",
     "Untitled.canvas",
-    "README.md",
-    "ingles/10 october 2023.md",
     "basededatos/Fundamentos de DB.md",
     "basededatos/tareas.md",
     "basededatos/base de datos.md",
@@ -201,12 +203,10 @@
     "2024-04-16.md",
     "cultura empresarial/estado de privacion que sufre una persona.md",
     "fisiica/apuntes.md",
-    "extracuricular/int cunetavelas = 0.md",
     "Excalidraw/Drawing 2023-09-02 15.34.59.excalidraw.md",
     "universidad/estrutura de datos/crear -especifica.md",
     "notas de proyectos",
     "basededatos",
-    "Pasted image 20231020160744.png",
     "Pasted image 20231020160407.png",
     "Pasted image 20231020155516.png",
     "Pasted image 20231020155413.png",
