@@ -1,7 +1,4 @@
 
-velocidad de la luz  (300,000KM/S)
-formula  
-= $\frac{d}{v}$    
 
 $$
 \mathcal{L}[f(t)] = \int_0^\infty f(t)e^{-st} \, dt
