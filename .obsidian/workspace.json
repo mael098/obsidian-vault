@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fisiica/apuntes.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fisiica/apuntes.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fisiica/apuntes.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fisiica/apuntes.md"
+                "file": "README.md"
               }
             }
           },
@@ -169,16 +169,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6379b1a5d8338e94",
+  "active": "d1d27d5c2b43e698",
   "lastOpenFiles": [
-    "matematicas",
-    "extracuricular/int cunetavelas = 0.md",
-    "README.md",
-    "Pasted image 20231020160744.png",
-    "ingles/10 october 2023.md",
+    "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled.md",
-    "Untitled.canvas",
+    "README.md",
+    "fisiica/apuntes.md",
+    "matematicas",
+    "extracuricular/int cunetavelas = 0.md",
+    "Pasted image 20231020160744.png",
+    "ingles/10 october 2023.md",
     "basededatos/Fundamentos de DB.md",
     "basededatos/tareas.md",
     "basededatos/base de datos.md",
@@ -202,7 +203,6 @@
     "eletricidad",
     "2024-04-16.md",
     "cultura empresarial/estado de privacion que sufre una persona.md",
-    "fisiica/apuntes.md",
     "Excalidraw/Drawing 2023-09-02 15.34.59.excalidraw.md",
     "universidad/estrutura de datos/crear -especifica.md",
     "notas de proyectos",
@@ -218,7 +218,6 @@
     "universidad/CALCULO VECTORIAL/Drawing 2023-10-09 01.39.59.excalidraw.md",
     "universidad/CALCULO VECTORIAL/Untitled.md",
     "universidad/INVESTIGACION DE OPERACIONES/Investigacion de Operaciones.md",
-    "universidad/estrutura de datos",
     "universidad/INVESTIGACION DE OPERACIONES/Canvas/Historia.canvas"
   ]
 }
