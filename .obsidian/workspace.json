@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "paguinas web/Investigación librería FPDF.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "paguinas web/Investigación librería FPDF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "paguinas web/Investigación librería FPDF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "paguinas web/Investigación librería FPDF.md"
               }
             }
           },
@@ -171,10 +171,14 @@
   },
   "active": "d1d27d5c2b43e698",
   "lastOpenFiles": [
+    "paguinas web/Investigación Hosting.md",
+    "paguinas web/Investigación librería FPDF.md",
+    "paguinas web/tareas.md",
+    "README.md",
+    "paguinas web",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled.md",
-    "README.md",
     "fisiica/apuntes.md",
     "matematicas",
     "extracuricular/int cunetavelas = 0.md",
@@ -214,10 +218,7 @@
     "ingles/Drawing 2023-10-19 09.17.12.excalidraw.md",
     "extracuricular",
     "inglres",
-    "ingles",
     "universidad/CALCULO VECTORIAL/Drawing 2023-10-09 01.39.59.excalidraw.md",
-    "universidad/CALCULO VECTORIAL/Untitled.md",
-    "universidad/INVESTIGACION DE OPERACIONES/Investigacion de Operaciones.md",
     "universidad/INVESTIGACION DE OPERACIONES/Canvas/Historia.canvas"
   ]
 }
