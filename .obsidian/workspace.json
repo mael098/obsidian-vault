@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "paguinas web/Investigación librería FPDF.md",
+                "file": "ingles/10 october 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5110321044922
+    "width": 266.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "d76c348f96b287bc",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "paguinas web/Investigación librería FPDF.md",
+                "file": "ingles/10 october 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "paguinas web/Investigación librería FPDF.md",
+                "file": "ingles/10 october 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "paguinas web/Investigación librería FPDF.md"
+                "file": "ingles/10 october 2023.md"
               }
             }
           },
@@ -169,10 +170,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d1d27d5c2b43e698",
+  "active": "6379b1a5d8338e94",
   "lastOpenFiles": [
-    "paguinas web/Investigación Hosting.md",
     "paguinas web/Investigación librería FPDF.md",
+    "paguinas web/Investigación Hosting.md",
     "paguinas web/tareas.md",
     "README.md",
     "paguinas web",

@@ -474,7 +474,10 @@ another thing  thing  that´s worth _ _ _ _ is a walking tour of the  old  town.
 
 
 
-
+-----
+exercise
+transform the verb in parentheses in  the  following sentences to past perfect simple: 
+1. Henry **had study** English for  
 
 
 
