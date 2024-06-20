@@ -480,6 +480,35 @@ transform the verb in parentheses in  the  following sentences to past perfect s
 1. Henry **had study** English for  
 
 
+-----
+
+# part 1 
 
 
+you should spend about 15 minutes on this task.
 
+you have received this email from a friend who you went  to college with. 
+
+Do you know it will soon be five years since we finished college? i think we should contact our old friends and arrange 
+
+write an email to Jan:
+
+- suggest a good way to celebrate with your old college friends
+- explain when would be the best time for the celebration 
+- offer help organise the celebration
+write at least 50 words
+
+----
+Hi Jan,
+
+I can’t believe it’s been almost five years since we graduated! A reunion sounds like a fantastic idea. How about we plan a weekend getaway to a nearby cabin or beach house? Early autumn might be the best time, as the weather will still be nice. I’m happy to help organize everything. Let’s make it happen!
+
+Best,
+
+----
+
+part 2
+
+you should spend about 30 minutes on this task.
+
+the town
