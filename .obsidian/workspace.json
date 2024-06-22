@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "te doi la bienvenida  a javaScript amor..md",
+                "file": "ingles/10 october 2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5110321044922,
-    "collapsed": true
+    "width": 266.5110321044922
   },
   "right": {
     "id": "d76c348f96b287bc",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "te doi la bienvenida  a javaScript amor..md",
+                "file": "ingles/10 october 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "te doi la bienvenida  a javaScript amor..md",
+                "file": "ingles/10 october 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "te doi la bienvenida  a javaScript amor..md"
+                "file": "ingles/10 october 2023.md"
               }
             }
           },
@@ -172,8 +171,13 @@
   },
   "active": "c34f5ffd77edd044",
   "lastOpenFiles": [
-    "ingles/10 october 2023.md",
+    "Pasted image 20240622173651.png",
+    "Pasted image 20240622172415.png",
+    "Pasted image 20240622170920.png",
+    "Pasted image 20240622165419.png",
+    "Pasted image 20240622165411.png",
     "te doi la bienvenida  a javaScript amor..md",
+    "ingles/10 october 2023.md",
     "Pasted image 20240622085406.png",
     "curso js",
     "paguinas web/Investigación librería FPDF.md",
@@ -202,7 +206,6 @@
     "basededatos/img/Pasted image 20240426102012.png",
     "basededatos/img/Fundamentos de DB 2024-04-26 10.08.32.excalidraw.md",
     "basededatos/img/Fundamentos de DB 2024-04-22 11.06.54.excalidraw.md",
-    "basededatos/img/erp1.png",
     "basededatos/img",
     "ingles/Untitled",
     "ingles/Drawing 2023-10-12 08.34.05.excalidraw.md",
@@ -215,9 +218,6 @@
     "universidad/estrutura de datos/crear -especifica.md",
     "notas de proyectos",
     "basededatos",
-    "Pasted image 20231020160407.png",
-    "Pasted image 20231020155516.png",
-    "Pasted image 20231020155413.png",
     "extracuricular",
     "universidad/INVESTIGACION DE OPERACIONES/Canvas/Historia.canvas"
   ]

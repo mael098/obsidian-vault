@@ -507,8 +507,43 @@ Best,
 
 ----
 
-part 2
+listenign A2: Transport announcements -1
+Are the sentences true or falce?
+![[Pasted image 20240622165419.png]]
+1. false
+2. true
+3. false
+4. false
+5. false
+6. fals
+![[Pasted image 20240622170920.png]]
 
-you should spend about 30 minutes on this task.
 
-the town where you 
+
+- Dirty from traffic or chemicals: **polluted**
+- Real or normal for a place, not specially for tourists: **authentic**
+- Another way to do something: **alternative**
+- Fast: **express**
+- A table where food or other things are sold in a market: **a stand**
+- A long, thin food made from flour, water and eggs: **noodles**
+
+![[Pasted image 20240622172415.png]]
+
+- **a place that you might see in the film 'The Beach'**: Khao San Road
+- **a place where local Thai people go**: Phra Kanong
+- **an alternative route through the city**: Chao Phraya
+- **a place to go for shopping and bars**: Sukhumvit
+- **a place to go for food**: Yaowarat Street
+- **an important sightseeing spot**: Wat Pho
+
+----
+
+![[Pasted image 20240622173651.png]]
+
+1. falce
+2. falce
+3. true
+4. flase
+5. true 
+6. true
+
