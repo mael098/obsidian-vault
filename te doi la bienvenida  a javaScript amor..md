@@ -450,12 +450,10 @@ Los literales de plantilla permiten interpolación y múltiples líneas:
 
 javascript
 
-
 ```js
 const myString = `This is a string.`;  console.log(myString); 
-// Resultado: This //is a string.
+// Resultado: This is a string.
 ```
-
 
 ### Interpolación en Literales de Plantilla
 
@@ -463,16 +461,433 @@ Puedes insertar expresiones dentro de un literal de plantilla usando `${}`:
 
 javascript
 
-Copy code
-
-``console.log(`The result is ${2 + 4}.`); // Resultado: The result is 6.``
-
+```js
+console.log(`The result is ${2 + 4}.`); 
+// Resultado: The result is 6.
+```
 ### Plantillas Etiquetadas
 
 Se pueden usar funciones personalizadas con literales de plantilla, recibiendo un array con la cadena dividida y los marcadores de posición como argumentos:
 
 javascript
 
-Copy code
+```js
+const myNoun = "template literal";  
+function myTagFunction(myStrings, myPlaceholder) {      const myInitialString = myStrings[0];     console.log(`${myInitialString}modified ${myPlaceholder}.`); 
+}  
+myTagFunction`I'm a ${myNoun}.`; 
+// Resultado: I'm a modified template literal.
+```
 
-``const myNoun = "template literal";  function myTagFunction(myStrings, myPlaceholder) {     const myInitialString = myStrings[0];     console.log(`${myInitialString}modified ${myPlaceholder}.`); }  myTagFunction`I'm a ${myNoun}.`; // Resultado: I'm a modified template literal.``
+# Booleano
+
+## Primitiva Booleana
+
+El tipo de dato booleano representa valores lógicos con dos estados: `true` (verdadero) y `false` (falso).
+
+## Objeto Booleano
+
+El objeto `Boolean` se usa para forzar valores a un estado booleano explícito:
+
+javascript
+
+```js
+Boolean( "A string literal" ); // Resultado: true
+```
+
+
+
+### Valores que se Evalúan como `false`
+
+Algunos valores se evalúan como `false` al ser convertidos a booleanos:
+
+javascript
+
+```js
+Boolean( NaN ); 
+// Resultado: false  
+Boolean( 0 ); 
+// Resultado: false  
+Boolean( "" ); 
+// cadena vacía 
+// Resultado: false  
+Boolean( null ); 
+// Resultado: false  
+Boolean( undefined ); 
+// Resultado: false  
+Boolean( false ); 
+// Resultado: false
+```
+
+### Todos los Otros Valores
+
+Cualquier otro valor se evalúa como `true`:
+
+javascript
+
+```js
+Boolean( 5 ); 
+// Resultado: true  
+Boolean( "false" ); 
+// la cadena "false" es una string, por lo tanto, es implícitamente true. 
+// Resultado: true
+```
+
+
+### Uso del Objeto Boolean
+
+Evita usar el constructor `Boolean` para crear objetos booleanos. En su lugar, usa las primitivas booleanas:
+
+javascript
+
+```js
+const falsePrimitive = Boolean( 0 ); 
+const falseObject = new Boolean( 0 );  
+console.log( falsePrimitive ); 
+// Resultado: false  
+console.log( falseObject ); 
+// Resultado: Boolean { false }  
+falseObject.valueOf(); 
+// Resultado: false
+```
+
+
+Debido a que todos los objetos son considerados verdaderos, incluso si contienen un valor falso, se evaluarán como verdaderos en contextos booleanos:
+
+javascript
+
+```js
+const falsePrimitive = Boolean( 0 ); 
+const falseObject = new Boolean( 0 );  
+console.log( falsePrimitive == true ); 
+// Resultado: false  
+console.log( falseObject == true ); 
+// Resultado: true
+```
+
+
+# Nulo e Indefinido
+
+## null
+
+La palabra clave `null` representa la ausencia intencional de cualquier valor. Aunque `null` es una primitiva, el operador `typeof` muestra incorrectamente que `null` es un objeto. Este comportamiento erróneo se ha mantenido desde las primeras versiones de JavaScript para evitar interrumpir el comportamiento existente en la web.
+
+javascript
+
+
+```js
+typeof null // Resultado: "object"
+```
+
+Puedes asignar `null` a una variable para indicar explícitamente que no tiene ningún valor asignado actualmente o para borrar un valor previamente asignado.
+
+javascript
+
+```js
+let myVar = null;
+```
+
+## undefined
+
+`undefined` es un valor que se asigna automáticamente a variables que se han declarado pero no inicializado, o a funciones que no tienen una declaración `return`.
+
+javascript
+
+```js
+let myVar; console.log(myVar); 
+// Resultado: undefined  
+function myFunction() {
+}
+console.log(myFunction()); 
+// Resultado: undefined
+```
+
+
+
+## Comparación entre null y undefined
+
+Aunque `null` y `undefined` tienen superposiciones funcionales, tienen propósitos diferentes. `null` representa la ausencia intencional de valor, mientras que `undefined` indica la falta de un valor asignado.
+
+javascript
+
+```js
+null == undefined 
+// Resultado: true  null === undefined 
+// Resultado: false
+```
+
+
+El operador de igualdad flexible (`==`) hace coerción de tipo, permitiendo que `null` y `undefined` sean considerados iguales. En contraste, el operador de igualdad estricta (`===`) verifica la igualdad sin coerción de tipo, por lo que `null` y `undefined` no son estrictamente iguales.
+
+## Propiedad undefined
+
+A diferencia de `null`, `undefined` es una propiedad del objeto global en JavaScript. Esta decisión de diseño inicial permitió a los navegadores heredados sobrescribir el valor de `undefined` por completo. En navegadores modernos, es posible declarar `undefined` como una variable local dentro de una función, pero esto es generalmente desaconsejado debido a posibles confusiones y comportamientos inesperados.
+
+
+# BigInt
+
+## Introducción a BigInt
+
+Los primitivos BigInt son una adición relativamente nueva a JavaScript que permite operaciones matemáticas con números fuera del rango manejable por el tipo `Number`. Para crear un BigInt, simplemente agrega una `n` al final de un literal numérico o pasa un valor entero numérico o una cadena a la función `BigInt()`.
+
+javascript
+
+```js
+const myNumber = 9999999999999999; 
+const myBigInt = 9999999999999999n;  
+typeof myNumber; 
+// Resultado: "number"  
+typeof myBigInt; 
+// Resultado: "bigint"  
+myNumber; 
+// Resultado: 10000000000000000  
+myBigInt; 
+// Resultado: 9999999999999999n
+```
+
+
+En el ejemplo anterior, `9999999999999999` está fuera del rango seguro de dígitos que puede representar `Number`, lo que causa un error de redondeo.
+
+## Limitaciones y Uso de BigInt
+
+Los valores de BigInt no heredan los métodos ni propiedades del objeto `Number`, y no se pueden utilizar con los métodos proporcionados por el objeto integrado `Math` de JavaScript. Es crucial destacar que no se pueden mezclar primitivos `BigInt` y `Number` en operaciones aritméticas estándar:
+
+javascript
+
+```js
+9999999999999999n + 5; 
+// Resultado: Uncaught TypeError: can't convert BigInt to number
+```
+
+
+Para realizar operaciones aritméticas con BigInt, ambos operandos deben ser valores de BigInt:
+
+javascript
+
+```js
+console.log( 9999999999999999 + 10 );  
+// Off by one 
+// Resultado: 10000000000000010  
+console.log( 9999999999999999n + 10n ); 
+// Resultado: 10000000000000009n
+```
+
+
+# Símbolo
+
+## Introducción a Símbolo
+
+Los símbolos son una primitiva relativamente nueva introducida en ES6. Un símbolo representa un valor único que nunca es igual a ningún otro valor, incluidos otros símbolos.
+
+javascript
+
+```js
+Symbol() === Symbol(); // Resultado: false
+```
+
+
+A diferencia de otros tipos primitivos como las strings o los números, dos símbolos con la misma descripción no son iguales.
+
+## Creación de Símbolos
+
+Puedes crear símbolos utilizando la función `Symbol()`. Puedes opcionalmente pasar una descripción que es útil para depuración pero no afecta la unicidad del símbolo:
+
+javascript
+
+```js
+let mySymbol = Symbol("My symbol description");  
+typeof mySymbol; // Resultado: "symbol"  
+mySymbol.description; 
+// Resultado: "My symbol description"
+```
+
+
+Intentar crear un símbolo con `new Symbol()` resultará en un error, ya que `Symbol` no es un constructor:
+
+javascript
+
+```js
+let mySymbol = new Symbol(); 
+// Resultado: Uncaught TypeError: Symbol is not a constructor
+```
+
+
+## Uso de Símbolos
+
+Los símbolos se utilizan comúnmente como claves únicas en objetos para evitar colisiones con otras propiedades:
+
+javascript
+
+```js
+const mySymbol = Symbol("Description"); 
+const myObject = {};  
+myObject[mySymbol] = "Value";
+```
+
+
+
+## Símbolos Compartidos
+
+JavaScript también proporciona símbolos compartidos a través de un registro global con `Symbol.for()`. Esto permite recuperar un símbolo existente o crear uno nuevo si no existe:
+
+javascript
+
+```js
+let sharedSymbol = Symbol.for("My key");  
+sharedSymbol === Symbol.for("My key"); 
+// Resultado: true
+```
+
+
+## Símbolos Conocidos
+
+JavaScript define una serie de símbolos conocidos como propiedades estáticas en el objeto `Symbol`. Estos símbolos proporcionan acceso a métodos y comportamientos internos de JavaScript:
+
+javascript
+
+```js
+Symbol.iterator; 
+// Accede al símbolo de iterador 
+Symbol.match;    
+// Accede al símbolo de coincidencia
+```
+
+
+
+Los símbolos conocidos son identificados con un prefijo `@@` o `%` para distinguirlos de las propiedades normales.
+
+
+# Variables
+
+## Introducción a las Variables
+
+Las variables en JavaScript son estructuras que asignan un nombre representativo a un valor. Pueden contener datos de cualquier tipo y se identifican por nombres denominados identificadores. Es importante seguir reglas específicas al nombrar variables para evitar errores de sintaxis y mantener la legibilidad del código.
+
+## Reglas para Identificadores
+
+Los identificadores válidos en JavaScript:
+
+- Pueden contener letras Unicode, signos de dólar ($), guiones bajos (_), dígitos (0-9) y algunos caracteres Unicode.
+- No pueden contener espacios en blanco, ya que estos separan elementos en el código.
+- Deben comenzar con una letra, guion bajo (_) o signo de dólar ($); no pueden empezar con dígitos.
+
+javascript
+
+```js
+let 1a = true; // Incorrecto
+```
+
+
+## Convenciones de Nomenclatura
+
+Es recomendable seguir convenciones de nomenclatura que mejoren la legibilidad del código. Por ejemplo, utilizar camelCase (inicial en minúscula, mayúsculas en las primeras letras de palabras subsiguientes) para identificadores compuestos.
+
+javascript
+
+```js
+let camelCasedIdentifier = true;
+```
+
+## Declaración de Variables
+
+Existen tres palabras clave para declarar variables en JavaScript:
+
+- `let`: Declara una variable que puede cambiar su valor.
+- `const`: Declara una constante cuyo valor no puede cambiar después de inicializarse.
+- `var`: Declara una variable con un alcance más amplio que `let` y `const`, aunque tiene comportamientos menos intuitivos.
+
+javascript
+
+```js
+let myVariable = 5; 
+const myConstant = true; 
+var functionScopedVariable = "scope";
+```
+
+
+## Alcance de las Variables
+
+El alcance de una variable determina dónde en el código puede ser utilizada.
+
+- **Alcance de Bloque**: Variables declaradas con `let` o `const` están limitadas al bloque que las contiene.
+
+javascript
+```js
+{let scopedVariable = true;     console.log(scopedVariable); 
+ // Accesible aquí 
+ } 
+ console.log(scopedVariable);
+  // Error, fuera de alcance
+```
+
+
+- **Alcance de Función**: Variables declaradas con `var` tienen alcance dentro de la función que las contiene.
+
+javascript
+
+```js
+function myFunction() {     
+var functionScopedVariable = "scope";     console.log(functionScopedVariable); 
+// Accesible aquí 
+} 
+console.log(functionScopedVariable); 
+// Error, fuera de alcance
+```
+
+
+- **Alcance Global**: Variables declaradas fuera de cualquier bloque o función tienen alcance global, accesible en toda la aplicación.
+
+javascript
+
+```js
+var globalVariable = "global scope"; console.log(globalVariable); 
+// Accesible en cualquier lugar
+```
+
+
+## Consideraciones Adicionales
+
+- **Elevación (Hoisting)**: Las declaraciones de variables en JavaScript son "elevadas" al principio de su alcance, pero solo la declaración, no la inicialización.
+
+javascript
+
+```js
+console.log(hoistedVariable); // undefined 
+var hoistedVariable = 5; 
+console.log(hoistedVariable); // 5
+```
+
+
+- **Temporal Dead Zone (TDZ)**: Las variables declaradas con `let` y `const` no están disponibles hasta después de la declaración.
+
+javascript
+
+```js
+{ console.log(blockScopedVariable); 
+ // Error     
+ let blockScopedVariable = true; 
+ }
+```
+
+
+Estas prácticas y convenciones ayudan a mantener un código claro y eficiente, facilitando la colaboración y el mantenimiento del proyecto.
+
+----------
+
+¡Hola mi amor!
+
+Hoy quiero celebrar lo especial que eres para mí con un mensaje muy único y geek, justo como a ti te gusta. Eres como esos operadores en JavaScript que hacen que todo en mi vida tenga sentido y funcione perfectamente.
+
+Eres mi `===` porque contigo todo encaja perfectamente, sin necesidad de comparaciones adicionales. Eres mi `!==` porque contigo no hay desigualdades ni dudas. Eres mi `>` porque superas todas mis expectativas y me haces crecer cada día más. Eres mi `<` porque me dejas sin palabras con tu ternura y amor.
+
+Nuestro amor es como un bucle `for`, siempre encontrando nuevas formas de crecer y fortalecerse juntos. Como un bucle `while`, nunca nos detenemos en nuestro camino hacia un futuro brillante. Y como un `switch`, eliges cada día estar a mi lado, haciendo que cada momento sea especial.
+
+Gracias por llenar mi vida de alegría, amor y aventuras. ¡Eres la constante en mi vida que nunca cambiaría!
+
+Te amo más allá de las líneas de código y hasta el infinito y más allá. 💖
+
+
+# Operadores, Comparaciones y Flujo
+
+
+
