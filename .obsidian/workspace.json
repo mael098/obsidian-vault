@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d1d27d5c2b43e698",
+            "id": "c34f5ffd77edd044",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ingles/10 october 2023.md",
+                "file": "te doi la bienvenida  a javaScript amor..md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ingles/10 october 2023.md",
+                "file": "te doi la bienvenida  a javaScript amor..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ingles/10 october 2023.md",
+                "file": "te doi la bienvenida  a javaScript amor..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ingles/10 october 2023.md"
+                "file": "te doi la bienvenida  a javaScript amor..md"
               }
             }
           },
@@ -170,8 +170,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6379b1a5d8338e94",
+  "active": "c34f5ffd77edd044",
   "lastOpenFiles": [
+    "ingles/10 october 2023.md",
+    "te doi la bienvenida  a javaScript amor..md",
+    "Pasted image 20240622085406.png",
+    "curso js",
     "paguinas web/Investigación librería FPDF.md",
     "paguinas web/Investigación Hosting.md",
     "paguinas web/tareas.md",
@@ -184,7 +188,6 @@
     "matematicas",
     "extracuricular/int cunetavelas = 0.md",
     "Pasted image 20231020160744.png",
-    "ingles/10 october 2023.md",
     "basededatos/Fundamentos de DB.md",
     "basededatos/tareas.md",
     "basededatos/base de datos.md",
@@ -215,11 +218,7 @@
     "Pasted image 20231020160407.png",
     "Pasted image 20231020155516.png",
     "Pasted image 20231020155413.png",
-    "Pasted image 20231020155106.png",
-    "ingles/Drawing 2023-10-19 09.17.12.excalidraw.md",
     "extracuricular",
-    "inglres",
-    "universidad/CALCULO VECTORIAL/Drawing 2023-10-09 01.39.59.excalidraw.md",
     "universidad/INVESTIGACION DE OPERACIONES/Canvas/Historia.canvas"
   ]
 }
