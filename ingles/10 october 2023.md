@@ -547,3 +547,13 @@ Are the sentences true or falce?
 5. true 
 6. true
 
+![[Pasted image 20240622174806.png]]
+
+1. such 
+2. so
+3. such
+4. such
+5. such
+6. such 
+7. so
+8. such
