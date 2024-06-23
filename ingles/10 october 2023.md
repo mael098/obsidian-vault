@@ -557,3 +557,15 @@ Are the sentences true or falce?
 6. such 
 7. so
 8. such
+
+
+
+
+-----
+
+1. innovative
+2. development
+3. customers
+4. convenient
+5. 
+
