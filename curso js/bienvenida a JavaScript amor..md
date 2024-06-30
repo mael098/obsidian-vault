@@ -1,3 +1,4 @@
+![[Pasted image 20240623103058.png]]
 JavaScript es el lenguaje que hace que una página web sea interactiva. Una página web tiene tres partes principales:
 
 1. **Capa estructural (HTML):** Esta es la base de la página, como los cimientos de una casa. Define la estructura y el contenido, como los textos, las imágenes y los botones.
@@ -1404,8 +1405,20 @@ console.log( `Loop ${ iterationCount }.` );  iterationCount++;} while ( iterati
 
 Al igual que con un bucle `while`, el caso de uso más común para `do`... `while` es un bucle de longitud indeterminada:
 
-```
-let randomNum;do {  randomNum = ( () => Math.floor( Math.random() * 10 ) )();  console.log( `Is the number ${ randomNum }?` );} while ( randomNum !== 3 );console.log( `Yes, ${ randomNum } was the correct number.` );> "Is the number 9?"> "Is the number 2?"> "Is the number 8?"> "Is the number 2?"> "Is the number 3?"> "Yes, 3 was the correct number."
+```js
+let randomNum;
+do {  
+randomNum = ( () => Math.floor( Math.random() * 10 ) )(); 
+console.log( `Is the number ${ randomNum }?` );
+} 
+while ( randomNum !== 3 );
+console.log( `Yes, ${ randomNum } was the correct number.` );
+>"Is the number 9?"
+>"Is the number 2?"
+>"Is the number 8?">
+>"Is the number 2?">
+>"Is the number 3?">
+>"Yes, 3 was the correct number."
 ```
 
 ### `for`
@@ -1420,8 +1433,10 @@ Para crear un bucle `for`, usa la palabra clave `for` seguida de un conjunto 
 
 Después de estos paréntesis, agrega la declaración (por lo general, una [declaración de bloque](https://web.dev/learn/javascript/introduction?hl=es-419#block-statements)) que se ejecutará durante el bucle.
 
-```
-for( let i = 0; i < 3; i++ ) {  console.log( "This loop will run three times.")}
+```js
+for( let i = 0; i < 3; i++ ) {  
+console.log( "This loop will run three times.")
+}
 ```
 
 La primera expresión inicializa una variable que actúa como un contador. Esta expresión se evalúa una vez, antes de la primera iteración del bucle. Puedes inicializar esta variable con `let` (o `var`, históricamente) como cualquier otra variable y su alcance es el cuerpo del bucle. Estas variables pueden tener cualquier identificador válido, pero con frecuencia se las llama `i` para "iteración" o "índice". Esto parece contradecir las [prácticas recomendadas establecidas para nombres de identificadores predecibles](https://web.dev/learn/javascript/data-types/variable?hl=es-419), pero la convención está lo suficientemente bien establecida como para ser clara con otros desarrolladores de un vistazo. Debido a que las [colecciones indexadas no se indexan](https://web.dev/learn/javascript/collections/indexed?hl=es-419), estas variables casi siempre tienen un valor inicial de `0`.
@@ -1432,8 +1447,13 @@ La expresión final se ejecuta al final de cada iteración a través del bucle. 
 
 Por lo general, verás que los bucles `for` iteran a través de arrays en bases de código más antiguas. En estos casos, la condición especificada para que el bucle continúe es un recuento de iteraciones menor o igual que la longitud del arreglo que se itera. La variable que se usa para rastrear el recuento de iteraciones actual se usa con el objetivo de buscar el valor asociado con ese índice en el array, lo que permite que se actúe en orden en cada elemento del array:
 
-```
-var myArray = [ true, false, true ];for( let i = 0; i <= myArray.length; i++ ) {  console.log( myArray[ i ] );}> true> false> true
+```js
+var myArray = [ true, false, true ];
+for( let i = 0; i <= myArray.length; i++ ) {  console.log( myArray[ i ] );
+}
+>true
+>false
+>true
 ```
 
 Este enfoque dejó de usarse y se reemplazó por enfoques más modernos de bucle a través de [estructuras de datos iterables](https://web.dev/learn/javascript/control-flow?hl=es-419#iterators).
@@ -1444,8 +1464,14 @@ Usa bucles `for`...`of`... para iterar sobre los valores almacenados en una [e
 
 Un bucle `for`...`of`... usa la palabra clave `for` seguida de un conjunto de paréntesis que contiene una variable, seguida de `of` y, luego, la estructura de datos que se itera. La variable puede ser una declaración realizada aquí mediante `let`, `const` o `var`, una variable declarada previamente dentro del alcance actual, una propiedad de objeto o una instancia de [asignación de desestructuración](https://web.dev/learn/javascript/collections/indexed?hl=es-419#destructuring-assignment). Contiene el valor del elemento que corresponde a la iteración actual del bucle.
 
-```
-const myIterable = [ true, false, true ];for( const myElement of myIterable ) {  console.log( myElement );}> true> false> true
+```js
+const myIterable = [ true, false, true ];
+for( const myElement of myIterable ) {
+console.log( myElement );
+}
+>true
+>false
+>true
 ```
 
 En este ejemplo, el uso de `const` para `myElement` funciona aunque `myElement` recibe un valor nuevo en cada iteración del bucle. Esto se debe a que el alcance de las variables declaradas con `let` o `const` se define en la declaración de bloque dentro del bucle. La variable se inicializa al comienzo de cada iteración y se quita al final.
@@ -1454,40 +1480,78 @@ En este ejemplo, el uso de `const` para `myElement` funciona aunque `myElem
 
 Usa bucles `for`...`in`... para iterar sobre las propiedades que se pueden enumerar de un objeto, incluidas las propiedades heredadas que se pueden enumerar. Al igual que con un bucle `for`...`of`..., un bucle `for`...`in`... usa la palabra clave `for` seguida de un conjunto de paréntesis que contiene una variable que contiene el valor de la clave de propiedad correspondiente a la iteración actual del bucle. Esta variable va seguida de la palabra clave `in` y, luego, el objeto que se itera:
 
-```
-const myObject = { "myProperty" : true, "mySecondProperty" : false };for( const myKey in myObject ) {  console.log( myKey );}> "myProperty"> "mySecondProperty"
+```js
+const myObject = { "myProperty" : true, "mySecondProperty" : false };
+for( const myKey in myObject ) {  
+console.log( myKey );
+}
+>"myProperty"
+>>"mySecondProperty"
 ```
 
 Una vez más, a pesar de que el valor de `myKey` cambia con cada iteración del bucle, puedes usar `const` sin errores porque la variable se descarta de manera efectiva al final de cada iteración y se vuelve a crear al comienzo.
 
 El valor asociado con cada clave de propiedad no está disponible directamente para la sintaxis `for`...`in`.... Sin embargo, debido a que el bucle tiene acceso a una clave de propiedad en cada iteración, puedes usar esa clave para "buscar" su valor:
 
-```
-const myObject = { "myProperty" : true, "mySecondProperty" : false };for( const myKey in myObject ) {  const myValue = myObject[ myKey ];  console.log( `${ myKey } : ${ myValue }` );}> "myProperty : true"> "mySecondProperty : false"
+```js
+const myObject = { "myProperty" : true, "mySecondProperty" : false };
+for( const myKey in myObject ) { 
+const myValue = myObject[ myKey ];
+console.log( `${ myKey } : ${ myValue }` );
+}
+>"myProperty : true"
+>"mySecondProperty : false"
 ```
 
 Las propiedades heredadas de los constructores integrados no son enumerables, lo que significa que `for`...`in`... no itera a través de propiedades heredadas del constructor `Object`. Sin embargo, sí se incluyen las propiedades que se pueden enumerar dentro de la [cadena del prototipo](https://web.dev/learn/javascript/objects/property-descriptors?hl=es-419) del objeto:
 
-```
-const myPrototype = { "protoProperty" : true };const myObject = Object.create( myPrototype, {    myProperty: {    value: true,    enumerable: true    }});for ( const myKey in myObject ) {  const myValue = myObject[ myKey ];  console.log( `${ myKey } : ${ myValue }` );}> "myProperty : true"> "protoProperty : true"
+```js
+const myPrototype = { "protoProperty" : true };
+const myObject = Object.create( myPrototype, {    myProperty: {    value: true,    enumerable: true    }});
+for ( const myKey in myObject ) { 
+const myValue = myObject[ myKey ];
+console.log( `${ myKey } : ${ myValue }` );
+}
+>"myProperty : true"
+>"protoProperty : true"
 ```
 
 JavaScript proporciona métodos integrados para determinar si una propiedad es una propiedad directa del objeto en lugar de una propiedad de la cadena de prototipos del objeto: los métodos [modernos](https://caniuse.com/mdn-javascript_builtins_object_hasown) `Object.hasOwn()` y `Object.prototype.hasOwnProperty()` heredados. Estos métodos evalúan si una propiedad especificada es heredada (o no declarada) y muestran `true` solo para las propiedades inmediatas de un objeto especificado:
 
-```
-const myPrototype = { "protoProperty" : true };const myObject = Object.create( myPrototype, {    myProperty: {    value: true,    enumerable: true    }});for ( const myKey in myObject ) {  const myValue = myObject[ myKey ];  if ( Object.hasOwn( myObject, myKey ) ) {    console.log( `${ myKey } : ${ myValue }` );  }}> "myProperty : true"
+```js
+const myPrototype = { "protoProperty" : true };
+const myObject = Object.create( myPrototype, {    myProperty: {    value: true,    enumerable: true    }});
+for ( const myKey in myObject ) {  const myValue = myObject[ myKey ];
+if ( Object.hasOwn( myObject, myKey ) ) {    console.log( `${ myKey } : ${ myValue }` );
+ }
+}
+>"myProperty : true"
 ```
 
 También hay tres métodos estáticos, cada uno de los cuales muestra un array compuesto por las claves enumerables (`Object.keys()`), los valores (`Object.values()`) o los pares clave-valor (`Object.entries()`) de un objeto:
 
-```
-const myObject = { "myProperty" : true, "mySecondProperty" : false };Object.keys( myObject );> Array [ "myProperty", "mySecondProperty" ]
+```js
+const myObject = { "myProperty" : true, "mySecondProperty" : false };
+Object.keys( myObject );
+>Array [ "myProperty", "mySecondProperty" ]
 ```
 
 Esto te permite iterar claves, valores o pares clave-valor de objetos (mediante la [asignación de desestructuración](https://web.dev/learn/javascript/collections/indexed?hl=es-419#destructuring-assignment)) sin incluir propiedades del prototipo de ese objeto:
 
-```
-const myPrototype = { "protoProperty" : "Non-enumerable property value." };const myObject = Object.create( myPrototype, {    myProperty: {    value: "Enumerable property value.",    enumerable: true    }});for ( const propKey of Object.keys( myObject ) ) {  console.log( propKey );}> "myProperty"for ( const propValue of Object.values( myObject ) ) {  console.log( propValue );}> "Enumerable property value."for ( const [ propKey, propValue ] of Object.entries( myObject ) ) {  console.log( `${ propKey } : ${ propValue }` );}> "myProperty : Enumerable property value."
+```js
+const myPrototype = { "protoProperty" : "Non-enumerable property value." };
+const myObject = Object.create( myPrototype, {    myProperty: {    value: "Enumerable property value.",    enumerable: true    }});
+for ( const propKey of Object.keys( myObject ) ) {  console.log( propKey );
+}
+> "myProperty"
+for ( const propValue of Object.values( myObject ) ) {  
+console.log( propValue );
+}
+> "Enumerable property value."
+for ( const [ propKey, propValue ] of Object.entries( myObject ) ){ 
+console.log( `${ propKey } : ${ propValue }` );
+}
+> "myProperty : Enumerable property value."
 ```
 
 #### `forEach()`
@@ -1498,20 +1562,34 @@ Los métodos `forEach()` que proporcionan los constructores [Array](https://w
 
 La función de devolución de llamada que se usa con `Array.forEach` proporciona parámetros que contienen el valor del elemento actual, el índice del elemento actual y el array en el que se invocó el método `forEach`:
 
-```
-const myArray = [ true, false ];myArray.forEach( ( myElement, i, originalArray ) => {  console.log( i, myElement, originalArray  );});> 0 true Array(3) [ true, false ]> 1 false Array(3) [ true, false ]
+```js
+const myArray = [ true, false ];
+myArray.forEach( ( myElement, i, originalArray ) => {  console.log( i, myElement, originalArray  );
+});
+> 0 true 
+> Array(3) [ true, false ]
+> 1 false 
+> Array(3) [ true, false ]
 ```
 
 La función de devolución de llamada que se usa con `Map.forEach` proporciona parámetros que contienen el valor asociado con el elemento actual, la clave asociada con este y el mapa en el que se invocó el método `forEach`:
 
-```
-const myMap = new Map([  ['myKey', true],  ['mySecondKey', false ],]);myMap.forEach( ( myValue, myKey, originalMap ) => {    console.log( myValue, myKey, originalMap  );});> true "myKey" Map { myKey → true, mySecondKey → false }> false "mySecondKey" Map { myKey → true, mySecondKey → false }
+```js
+const myMap = new Map([  ['myKey', true],  ['mySecondKey', false ],]);
+myMap.forEach( ( myValue, myKey, originalMap ) => {    console.log( myValue, myKey, originalMap  );
+});
+> true "myKey" Map { myKey → true, mySecondKey → false }
+> false "mySecondKey" Map { myKey → true, mySecondKey → false }
 ```
 
 Una devolución de llamada `Set.forEach` incluye parámetros similares. Debido a que Set no tiene índices ni claves distintos de los valores, el segundo argumento proporciona un valor redundante que se puede ignorar estrictamente para mantener la coherencia de la sintaxis con los otros métodos `forEach`.
 
-```
-const mySet = new Set([ true, false ]);mySet.forEach( ( myValue, myKey, originalSet ) => {  console.log( myValue, myKey, originalSet  );});> true true Set [ true, false ]> false false Set [ true, false ]
+```js
+const mySet = new Set([ true, false ]);
+mySet.forEach( ( myValue, myKey, originalSet ) => {  console.log( myValue, myKey, originalSet  );
+});
+> true true Set [ true, false ]
+> false false Set [ true, false ]
 ```
 
 ### Iteradores
@@ -1520,76 +1598,181 @@ Un _iterable_ es cualquier estructura de datos compuesta por elementos individ
 
 Las estructuras de datos iterables integradas de JavaScript (como [Array](https://web.dev/learn/javascript/collections/indexed?hl=es-419#array), [Map](https://web.dev/learn/javascript/collections/keyed?hl=es-419#map) y [Set](https://web.dev/learn/javascript/collections/keyed?hl=es-419#set)) no son iteradores por sí mismos, pero todas heredan un método `iterator`, al que se puede acceder mediante el [símbolo conocido](https://web.dev/learn/javascript/data-types/symbol?hl=es-419#well-known) de `@@iterator`, que muestra un objeto iterador creado a partir de la estructura de datos iterable:
 
-```
-const myIterable = [ 1, 2, 3 ];const myIterator = myIterable[ Symbol.iterator ]();myIterable;> (3) [1, 2, 3]myIterator;> Array Iterator {}
+```js
+const myIterable = [ 1, 2, 3 ];
+const myIterator = myIterable[ Symbol.iterator ]();
+>myIterable;
+> (3) [1, 2, 3]myIterator;
+> Array Iterator {}
 ```
 
 Llamar al método `next()` en un iterador recorre los elementos que contiene, uno a la vez, y cada llamada muestra un objeto que contiene dos propiedades: `value`, que contiene el valor del elemento actual, y `done`, un valor booleano que indica si el iterador pasó el último elemento de la estructura de datos. El valor de `done` es `true` solo cuando una llamada a `next()` da como resultado un intento de acceso a un elemento más allá del último elemento del iterador.
 
-```
-const myIterable = [ 1, 2, 3 ];const myIterator = myIterable[ Symbol.iterator ]();myIterator.next();> Object { value: 1, done: false }myIterator.next();> Object { value: 2, done: false }myIterator.next();> Object { value: 3, done: false }myIterator.next();> Object { value: undefined, done: true }
+```js
+const myIterable = [ 1, 2, 3 ];
+const myIterator = myIterable[ Symbol.iterator ]();
+myIterator.next();
+> Object { value: 1, done: false }
+ myIterator.next();
+> Object { value: 2, done: false }
+myIterator.next();
+> Object { value: 3, done: false }
+myIterator.next();
+> Object { value: undefined, done: true }
 ```
 
 #### Funciones de generador
 
 Usa la palabra clave `function*` (ten en cuenta el asterisco) para declarar una función de generador o definir una expresión de función de generador:
 
-```
+```js
 function* myGeneratorFunction() { };
 ```
 
 Al igual que los [iteradores](https://web.dev/learn/javascript/control-flow?hl=es-419#iterators), las funciones de generador mantienen el estado. Si llamas a una función de generador, se muestra un objeto Generador nuevo, pero no se ejecuta de inmediato el código en el cuerpo de la función:
 
-```
-function* myGeneratorFunction() {  console.log( "Generator function body ")};const myGeneratorObject = myGeneratorFunction();myGeneratorObject;> Generator {  }typeof myGeneratorObject;> "object"
+```js
+function* myGeneratorFunction() {  
+console.log( "Generator function body ")};
+const myGeneratorObject = myGeneratorFunction();myGeneratorObject;
+> Generator {  }typeof myGeneratorObject;
+> "object"
 ```
 
 Los objetos generadores siguen el [protocolo iterador](https://web.dev/learn/javascript/control-flow?hl=es-419#iterators). El valor que muestra cada llamada a `next()` en una función de generador está determinado por una expresión `yield`, que pausa la ejecución de la función del generador y muestra el valor de la expresión que contiene la palabra clave `yield`. Las llamadas posteriores a `next()` continúan la ejecución de la función, se detiene en la siguiente expresión `yield` y se muestra el valor asociado.
 
-```
-function* myGeneratorFunction() {  yield "My first yielded value.";  yield "My second yielded value.";};const myGeneratorObject = myGeneratorFunction();myGeneratorObject.next();> Object { value: "My first yielded value.", done: false }myGeneratorObject.next();> Object { value: "My second yielded value.", done: false }
+```js
+function* myGeneratorFunction() { 
+yield "My first yielded value.";
+yield "My second yielded value.";
+};
+const myGeneratorObject = myGeneratorFunction();
+myGeneratorObject.next();
+> Object { value: "My first yielded value.", done: false }
+> myGeneratorObject.next();
+> Object { value: "My second yielded value.", done: false }
 ```
 
 Cuando se llama a `next()` después de que no se especifican más valores mediante `yield`, `return` o `throw` (en caso de que se produzca un error), se ejecuta el resto del cuerpo de la función, y el objeto que se muestra tiene un `value` de `undefined` y una propiedad `done` de `true`:
 
-```
-function* myGeneratorFunction() {    console.log( "Start of the generator function." );    yield "First";    console.log( "Second part of the generator function."  );    yield "Second";    console.log( "Third part of the generator function." );    yield "Third";};const myGeneratorObject = myGeneratorFunction();myGeneratorObject.next();> "Start of the generator function."> Object { value: "First", done: false }myGeneratorObject.next();> "Second part of the generator function."> Object { value: "Second", done: false }myGeneratorObject.next();> "Third part of the generator function."> Object { value: "Third", done: false }myGeneratorObject.next();> Object { value: undefined, done: true }
+```js
+function* myGeneratorFunction() {    
+console.log( "Start of the generator function." );   yield "First";    
+console.log( "Second part of the generator function."  );    
+yield "Second";    
+console.log( "Third part of the generator function." );  
+yield "Third";
+};
+const myGeneratorObject = myGeneratorFunction();
+myGeneratorObject.next();
+> "Start of the generator function."
+> Object { value: "First", done: false }
+myGeneratorObject.next();
+> "Second part of the generator function."
+> Object { value: "Second", done: false }
+> myGeneratorObject.next();
+> "Third part of the generator function."> Object { value: "Third", done: false }
+> myGeneratorObject.next();
+> Object { value: undefined, done: true }
 ```
 
 Usa `next()` solo en el objeto que muestra la función de generador, no en la función de generador en sí. De lo contrario, cada llamada a la función de generador crea un nuevo objeto generador:
 
-```
-function* myGeneratorFunction() {  yield "First";  yield "Second";};myGeneratorFunction().next();> Object { value: "First", done: false }myGeneratorFunction().next();> Object { value: "First", done: false }
+```js
+function* myGeneratorFunction() {
+yield "First";
+yield "Second";};
+myGeneratorFunction().next();
+> Object { value: "First", done: false }
+> myGeneratorFunction().next();
+> Object { value: "First", done: false }
 ```
 
 Al igual que con cualquier función, la función del generador se detiene cuando encuentra una palabra clave `return`. Luego, muestra un objeto al contexto de invocación que contiene el valor mostrado y una propiedad `done` con el valor `true`.
 
-```
-function* myGeneratorFunction() {  yield 1;  yield 2;  return 3;};const myGeneratorObject = myGeneratorFunction();myGeneratorObject.next().done;> Object { value: 1, done: false }myGeneratorObject.next().done;> Object { value: 2, done: false }myGeneratorObject.next();> Object { value: 3, done: true }
+```js
+function* myGeneratorFunction() {
+yield 1;  yield 2;  return 3;};
+const myGeneratorObject = myGeneratorFunction();
+myGeneratorObject.next().done;
+> Object { value: 1, done: false }
+> myGeneratorObject.next().done;
+> Object { value: 2, done: false }
+> myGeneratorObject.next();
+> Object { value: 3, done: true }
 ```
 
 Una expresión `yield` puede adoptar parte de la semántica de un identificador, lo que permite una “comunicación” bidireccional desde y hacia la parte suspendida de la función del generador. Cuando se pasa un valor al método `next()` de un generador como argumento, se reemplaza el valor asociado con la expresión `yield` suspendida anterior:
 
-```
-function* myGeneratorFunction() {    const firstYield = yield;    yield firstYield + 10;};const myGeneratorObject = myGeneratorFunction();myGeneratorObject.next();> Object { value: undefined, done: false }myGeneratorObject.next( 5 );> Object { value: 15, done: false }
+```js
+function* myGeneratorFunction() {   
+const firstYield = yield;    
+yield firstYield + 10;
+};
+const myGeneratorObject = myGeneratorFunction();
+myGeneratorObject.next();
+> Object { value: undefined, done: false }
+> myGeneratorObject.next( 5 );
+> Object { value: 15, done: false }
 ```
 
 Ten en cuenta que esto reemplaza toda la expresión asociada con la `yield` anterior y no solo reasigna el valor del `yield` anterior al valor especificado en `next()`:
 
-```
-function* myGeneratorFunction() {    const firstYield = yield;    const secondYield = yield firstYield + 100;    yield secondYield + 10;};const myGeneratorObject = myGeneratorFunction();myGeneratorObject.next();> Object { value: undefined, done: false }myGeneratorObject.next( 10 ); // Can be thought of as changing the value of the `firstYield` variable to `10> Object { value: 110, done: false }myGeneratorObject.next( 20 ); // Can be thought of as changing the value of the `secondYield` variable to `20`, _not_ `20 + 100;`> Object { value: 30, done: false }
+```js
+function* myGeneratorFunction() { 
+const firstYield = yield;
+const secondYield = yield firstYield + 100;
+yield secondYield + 10;
+};
+const myGeneratorObject = myGeneratorFunction();
+myGeneratorObject.next();
+> Object { value: undefined, done: false }
+> myGeneratorObject.next( 10 ); 
+// Can be thought of as changing the value of the `firstYield` variable to `10
+> Object { value: 110, done: false }myGeneratorObject.next( 20 ); 
+// Can be thought of as changing the value of the `secondYield` variable to `20`, _not_ `20 + 100;`
+> Object { value: 30, done: false }
 ```
 
 Se ignora cualquier argumento que se pase a la primera llamada a `next()`, ya que no hay ninguna expresión `yield` anterior para aceptar ese valor. Al igual que con cualquier otra función, los argumentos pasados a la llamada inicial a la función del generador están disponibles en todo el alcance del cuerpo de la función del generador:
 
-```
-function* myGeneratorFunction( startingValue ) {    let newValue = yield startingValue + 1;    newValue = yield newValue + 10;    yield startingValue + 20;};const myGeneratorObject = myGeneratorFunction( 2 );myGeneratorObject.next( 1 );> Object { value: 3, done: false }myGeneratorObject.next( 5 );> Object { value: 15, done: false }myGeneratorObject.next( 10 );Object { value: 22, done: false }
+```js
+function* myGeneratorFunction( startingValue ) {    let newValue = yield startingValue + 1;
+newValue = yield newValue + 10;
+yield startingValue + 20;
+};
+const myGeneratorObject = myGeneratorFunction( 2 );
+myGeneratorObject.next( 1 );
+> Object { value: 3, done: false }
+> myGeneratorObject.next( 5 );
+> Object { value: 15, done: false }
+> myGeneratorObject.next( 10 );
+> Object { value: 22, done: false }
 ```
 
 El operador `yield*` (ten en cuenta el asterisco) se usa con un iterable, como otra función de generador, para iterar y generar cada valor que muestra su operando:
 
-```
-function* mySecondaryGenerator() {  yield 2;  yield 3;}function* myGenerator() {  yield 1;  yield* mySecondaryGenerator();  yield 4;  return 5;}const myIterator = myGenerator();myIterator.next();> Object { value: 1, done: false }myIterator.next();> Object { value: 2, done: false }myIterator.next();> Object { value: 3, done: false }myIterator.next();> Object { value: 4, done: false }myIterator.next();> Object { value: 5, done: true }
+```js
+function* mySecondaryGenerator() {  
+yield 2;
+yield 3;
+}
+function* myGenerator() { 
+yield 1; 
+yield* mySecondaryGenerator();
+yield 4;
+return 5;
+}
+const myIterator = myGenerator();
+myIterator.next();
+> Object { value: 1, done: false }
+> myIterator.next();
+> Object { value: 2, done: false }myIterator.next();
+> Object { value: 3, done: false }
+> myIterator.next();
+> Object { value: 4, done: false }
+> myIterator.next();
+> Object { value: 5, done: true }
 ```
 
 ## JavaScript asíncrono
@@ -1602,20 +1785,33 @@ Una promesa es un marcador de posición para un valor que se desconoce cuando se
 
 Crea una instancia de promesa mediante el operador `new` con la función de constructor `Promise` integrada. Este constructor acepta una función llamada _executor_ como argumento. Esa función ejecutor normalmente se usa para realizar una o más acciones asíncronas y, luego, dictar los términos por los cuales la promesa debe considerarse completada o rechazada de forma correcta. Una promesa se define como _pending_ mientras se ejecuta la función ejecutor. Cuando el ejecutor finaliza, una promesa se considera _cumplida_ (o _resuelta_, en algunas fuentes de documentación) si la función del ejecutor y la acción asíncrona que realiza se completan con éxito, y _se rechazan_ si la función del ejecutor encuentra un error o falla la acción asíncrona. Después de que se cumple o rechaza una promesa, esta se considera _cumplida_.
 
-```
-const myPromise = new Promise( () => { });
+```js
+const myPromise = new Promise( () => {});
 ```
 
 El constructor llama a la función ejecutor con dos argumentos. Esos argumentos son funciones que te permiten cumplir o rechazar la promesa de forma manual:
 
-```
+```js
 const  myPromise = new Promise( ( fulfill, reject ) => { });
 ```
 
 Se llama a las funciones que se usan para cumplir o rechazar una promesa con el valor resultante de la promesa como argumento (por lo general, un error de rechazo):
 
-```
-const myPromise = new Promise( ( fulfill, reject ) => {  const myResult = true;  setTimeout(() => {    if( myResult === true ) {        fulfill( "This Promise was successful." );        } else {        reject( new Error( "This Promise has been rejected." ) );    }  }, 10000);});myPromise;> Promise { <state>: "pending" }myPromise;> Promise { <state>: "fulfilled", <value>: "This Promise was successful." }
+```js
+const myPromise = new Promise( ( fulfill, reject ) => {  
+const myResult = true;
+setTimeout(() => {   
+if( myResult === true ) {
+fulfill( "This Promise was successful." ); 
+}else {    
+reject( new Error( "This Promise has been rejected." ) );
+ }  
+}, 10000);
+});
+myPromise;
+> Promise { <state>: "pending" }
+ myPromise;
+ > Promise { <state>: "fulfilled", <value>: "This Promise was successful." }
 ```
 
 #### Encadenamiento de promesas
@@ -1624,14 +1820,38 @@ Se puede actuar sobre el objeto Promise resultante con los métodos `then()`, 
 
 `then()` proporciona dos funciones de devolución de llamada como argumentos. Usa la primera para cumplir la promesa resultante y la segunda para rechazarla. Ambos métodos aceptan un solo argumento que le da su valor a la promesa resultante.
 
-```
-const myPromise = new Promise( ( fulfill, reject ) => {  const myResult = true;  setTimeout(() => {    if( myResult === true ) {        fulfill( "This Promise was fulfilled." );        } else {        reject( new Error( "This Promise has been rejected." ) );    }  }, 100);});myPromise.then( successfulResult => console.log( successfulResult ), failedResult => console.error( failedResult ) );> "This Promise was successful."
+```js
+const myPromise = new Promise( ( fulfill, reject ) => { 
+const myResult = true;
+setTimeout(() => {    
+if( myResult === true ) {
+fulfill( "This Promise was fulfilled." );       
+}else { 
+reject( new Error( "This Promise has been rejected." ) );  
+} 
+}, 100);
+});
+myPromise.then( successfulResult => console.log( successfulResult ),failedResult => console.error( failedResult ) );
+>"This Promise was successful."
 ```
 
 También puedes usar `then()` para controlar solo el estado entregado y `catch` para manejar el estado rechazado. Llama a `catch` con un solo argumento que contenga el valor proporcionado en el método de rechazo de la promesa:
 
-```
-const myPromise = new Promise( ( fulfill, reject ) => {  const myResult = false;  setTimeout(() => {    if( myResult === true ) {        fulfill( "This Promise was fulfilled." );        } else {        reject( new Error( "This Promise has been rejected." ) );    }  }, 100);});myPromise  .then( fulfilledResult => console.log(fulfilledResult ) )  .catch( rejectedResult => console.log( rejectedResult ) )  .finally( () => console.log( "The Promise has settled." ) );> "Error: This Promise has been rejected."> "The Promise has settled."
+```js
+const myPromise = new Promise( ( fulfill, reject ) => {  
+const myResult = false;
+setTimeout(() => { 
+if( myResult === true ) { 
+fulfill( "This Promise was fulfilled." );        } else {    
+reject( new Error( "This Promise has been rejected." ) ); 
+} }, 100);
+});
+myPromise  
+.then( fulfilledResult => console.log(fulfilledResult ) )  
+.catch( rejectedResult => console.log( rejectedResult ) )  
+.finally( () => console.log( "The Promise has settled." ) );
+> "Error: This Promise has been rejected."
+> "The Promise has settled."
 ```
 
 A diferencia de `then` y `catch`, que permiten que una función de controlador se ejecute cuando se cumple o se rechaza una promesa, se llama a una función pasada como argumento al método `finally` sin importar si la promesa se cumplió o se rechazó. Se llama a la función del controlador sin argumentos porque no está diseñada para trabajar con los valores que se pasaron desde la Promesa, sino solo para ejecutar el código después de que se completa la Promesa.
@@ -1640,8 +1860,30 @@ A diferencia de `then` y `catch`, que permiten que una función de controlado
 
 El constructor Promise proporciona cuatro métodos para trabajar con varias promesas relacionadas mediante un [iterable](https://web.dev/learn/javascript/control-flow?hl=es-419#iterators) que contiene objetos Promise. Cada uno de estos métodos muestra una promesa, que se cumple o se rechaza según el estado de las promesas que se le hayan pasado. `Promise.all()`, por ejemplo, crea una promesa que se cumple solo si se cumple cada promesa que se pasa a ese método:
 
-```
-const firstPromise  = new Promise( ( fulfill, reject ) => fulfill( "Successful. ") );const secondPromise = new Promise( ( fulfill, reject ) => fulfill( "Successful. ") );const thirdPromise  = new Promise( ( fulfill, reject ) => fulfill( "Successful. ") );const failedPromise = new Promise( ( fulfill, reject ) => reject( "Failed.") );const successfulPromises = [ firstPromise, secondPromise, thirdPromise ];const oneFailedPromise = [ failedPromise, ...successfulPromises ];Promise.all( successfulPromises )  .then( ( allValues ) => {    console.log( allValues );  })  .catch( ( failValue ) => {    console.error( failValue );  });> Array(3) [ "Successful. ", "Successful. ", "Successful. " ]Promise.all( oneFailedPromise  )    .then( ( allValues ) => {      console.log( allValues );    })    .catch( ( failValue ) => {     console.error( failValue );    });> "Failed."
+```js
+const firstPromise  = new Promise( ( fulfill, reject )=> fulfill( "Successful. ") );
+
+const secondPromise = new Promise( ( fulfill, reject ) => fulfill( "Successful. ") );
+const thirdPromise  = new Promise( ( fulfill, reject ) => fulfill( "Successful. ") );
+const failedPromise = new Promise( ( fulfill, reject ) => reject( "Failed.") );
+const successfulPromises = [ firstPromise, secondPromise, thirdPromise ];
+const oneFailedPromise = [ failedPromise, ...successfulPromises ];
+Promise.all( successfulPromises )  
+.then( ( allValues ) => {    
+console.log( allValues ); 
+}) 
+.catch( ( failValue ) => {  
+console.error( failValue );
+});
+> Array(3) [ "Successful. ", "Successful. ", "Successful. " ]
+ Promise.all( oneFailedPromise  ) 
+ .then( ( allValues ) => {    
+console.log( allValues ); 
+})  
+.catch( ( failValue ) => { 
+console.error( failValue );  
+});
+> "Failed."
 ```
 
 Los métodos de simultaneidad de Promise son los siguientes:
@@ -1666,18 +1908,41 @@ Se rechaza o se cumple en función del resultado de la primera promesa que se co
 
 Cuando usas la palabra clave `async` antes de una [declaración de función](https://web.dev/learn/javascript/functions?hl=es-419) o una [expresión de función](https://web.dev/learn/javascript/functions/function-expressions?hl=es-419), cualquier valor que muestre esa función se muestra como una promesa cumplida que contiene ese valor. Esto te permite ejecutar y administrar operaciones asíncronas con los mismos flujos de trabajo que el desarrollo síncrono.
 
-```
-async function myFunction() {  return "This is my returned value.";}myFunction().then( myReturnedValue => console.log( myReturnedValue ) );> "This is my returned value."
+```js
+async function myFunction() {
+return "This is my returned value.";
+}
+myFunction()
+.then( myReturnedValue => console.log( myReturnedValue ) );
+> "This is my returned value."
 ```
 
 La expresión `await` pausa la ejecución de una función asíncrona mientras se establece la promesa asociada. Una vez que se establece la promesa, el valor de la expresión `await` es el valor cumplido o rechazado de la promesa.
 
-```
-async function myFunction() {  const myPromise  = new Promise( ( fulfill, reject ) => { setTimeout( () => fulfill( "Successful. "), 5000 ); });  const myPromisedResult = await myPromise;  return myPromisedResult;}myFunction()  .then( myResult => console.log( myResult ) )  .catch( myFailedResult => console.error( myFailedResult ) );> "Successful."
+```js
+async function myFunction() {
+const myPromise  = new Promise( ( fulfill, reject ) => { setTimeout( () => fulfill( "Successful. "), 5000 );
+});
+const myPromisedResult = await myPromise;  
+return myPromisedResult;
+}
+myFunction()  
+.then( myResult => console.log( myResult ) ) 
+.catch( myFailedResult => console.error( myFailedResult ) );
+> "Successful."
 ```
 
 Cualquier valor que no sea promesa incluido en una expresión `await` se muestra como una promesa completada:
 
+```js
+async function myFunction() { 
+const myPromisedResult = await "String value.";  return myPromisedResult;
+}
+myFunction() 
+.then( myResult => console.log( myResult ) ) 
+.catch( myFailedResult => console.error( myFailedResult ) );
+> "String value."
 ```
-async function myFunction() {  const myPromisedResult = await "String value.";  return myPromisedResult;}myFunction()  .then( myResult => console.log( myResult ) )  .catch( myFailedResult => console.error( myFailedResult ) );> "String value."
-```
+
+
+
