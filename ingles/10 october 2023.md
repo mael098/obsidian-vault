@@ -616,4 +616,66 @@ Lister
     
     - True
 
+-----
 
+- **I can't think.**
+    
+    - My brain shuts down
+- **I won't be upset.**
+    
+    - I can take it
+- **I wanted to escape.**
+    
+    - I wanted to get out of it
+- **I was really nervous or afraid.**
+    
+    - I came out in a cold sweat
+- **I still don't understand.**
+    
+    - I’m still lost
+- **I understand what you're saying!**
+    
+    - I get you!
+
+----
+Here are the words matched with their definitions:
+
+1. **a job in a company, for example a marketing manager or sales assistant**
+    
+    - a position
+2. **a short document that shows your experience and qualifications**
+    
+    - a CV
+3. **letters from people who know you that describe your abilities**
+    
+    - references
+4. **identification; a document with your name, photo and other personal information**
+    
+    - ID
+5. **the place in an office where visitors arrive**
+    
+    - reception
+6. **to change the date or time of something**
+    
+    - to reschedule
+
+---
+
+- **What job did Grace apply for?**
+    
+    - Grace applied for the **Sales manager** position.
+- **When is the job interview?**
+    
+    - The job interview is scheduled for **21 September**.
+- **How long will the interview take?**
+    
+    - The email states that the interview will last **about 45 minutes**, which corresponds to "Under an hour" as the best answer.
+- **What does Grace need to bring to the interview?**
+    
+    - Grace needs to bring **All of the above**: her CV, her references, and her ID.
+- **Who should Grace ask for at reception?**
+    
+    - Grace should ask for **Anna Green** at reception.
+- **What can Grace do if she wants to change the interview date?**
+    
+    - Grace can **email Anna Green on 15 September** if she wants to change the interview date.
