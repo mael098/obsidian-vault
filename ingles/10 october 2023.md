@@ -569,3 +569,51 @@ Are the sentences true or falce?
 4. convenient
 5. 
 
+
+----
+
+Lister
+
+
+- **What day should you hand in your essay?**
+    
+    - 18 October
+- **It's OK to ...**
+    
+    - give it to the teacher early.
+- **How do you write the teacher's email address?**
+    
+    - j.hartshorn@lmu.ac.uk
+- **What goes on the last page of the essay?**
+    
+    - The books you used
+- **Which font should you write the essay with?**
+    
+    - Arial
+- **What size font should you use for the essay?**
+    
+    - 12
+
+
+---------
+
+1. **The interviewer finds speaking the most difficult.**
+    
+    - False
+2. **Gabriella thinks, in some situations, people can find speaking easier than listening.**
+    
+    - True
+3. **According to the interviewer, asking for someone to say the same thing again is one way to solve the problem.**
+    
+    - True
+4. **Gabriella recommends pretending to understand if a conversation is too difficult.**
+    
+    - True (in some low-stakes situations)
+5. **Gabriella's strategy for managing important conversations sounds strange to the interviewer at first.**
+    
+    - False
+6. **Gabriella's idea involves asking a lot of questions.**
+    
+    - True
+
+
