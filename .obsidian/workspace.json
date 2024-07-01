@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a5db2b98bc04fae5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +180,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c34f5ffd77edd044",
+  "active": "a5db2b98bc04fae5",
   "lastOpenFiles": [
     "curso js/bienvenida a JavaScript amor..md",
     "Pasted image 20240623103058.png",
