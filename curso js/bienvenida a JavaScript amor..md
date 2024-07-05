@@ -1946,3 +1946,142 @@ myFunction()
 
 
 
+
+
+
+------
+
+
+
+### Funciones en JavaScript
+
+Una función es un bloque modular y reutilizable de sentencias que se usa para realizar un conjunto de tareas relacionadas, como calcular y mostrar un valor según los argumentos proporcionados a la función. Las funciones son objetos únicos porque se pueden llamar para ejecutar código, pasar datos en forma de argumentos y retornar un valor.
+
+### Conceptos Clave
+
+- **Funciones como Objetos de "Primera Clase"**: Esto significa que las funciones pueden usarse en los mismos contextos que cualquier otro objeto de JavaScript. Por ejemplo, una función puede asignarse a una variable, pasarse como argumento a otras funciones y ser devuelta por otras funciones.
+
+#### Ejemplo de Función Básica
+
+javascript
+
+```js
+function myFunction() {    
+console.log("This is my function."); 
+}  
+myFunction();  // Llama a la función // Output: "This is my function."
+```
+
+
+### Declaraciones de Funciones
+
+Una declaración de función crea una función con nombre que se puede invocar en otro lugar del alcance que la contiene.
+
+#### Ejemplo de Declaración de Función
+
+javascript
+
+```js
+function myFunction() {    
+console.log("This is my function."); 
+}  
+myFunction();  // Llama a la función // Output: "This is my function."
+```
+
+### Comportamiento de Elevación
+
+Las declaraciones de funciones se elevan a la parte superior de su alcance, lo que significa que se puede llamar a la función antes de su declaración.
+
+#### Ejemplo de Elevación
+
+javascript
+
+```js
+"use strict"; {
+myFunction();
+function myFunction() {
+console.log("This is my function."); 
+} 
+} // Output: "This is my function."
+```
+
+
+### Llamada a Función
+
+Para ejecutar el código dentro del cuerpo de la función, se llama a la función siguiendo el nombre de la función con un par de paréntesis.
+
+#### Ejemplo de Llamada a Función
+
+javascript
+
+Copiar código
+
+```js
+function myFunction() { 
+console.log("My function has been executed."); 
+}  
+myFunction();  // Llama a la función // Output: "My function has been executed."
+```
+
+### Parámetros y Argumentos
+
+Los parámetros en la definición de la función actúan como variables de marcador de posición para los valores que se pueden pasar al cuerpo de la función cuando se la llama.
+
+#### Ejemplo de Parámetros y Argumentos
+
+javascript
+
+```js
+function myFunction(myParameter) {  
+console.log(`The value is: ${myParameter}.`); 
+} 
+myFunction("this string");  // Pasa un argumento 
+// Output: "The value is: this string."``
+
+```
+
+### Valores Predeterminados de Parámetros
+
+Para configurar los valores predeterminados de los parámetros, inicialízalos de la misma manera en que inicializarías una variable.
+
+#### Ejemplo de Valores Predeterminados
+
+javascript
+
+```js
+function myFunction(myParameter = "omitted") {    console.log(`The value is: ${myParameter}.`);
+}  
+myFunction("this string");  // Pasa un argumento 
+// Output: "The value is: this string."  myFunction(); // No pasa argumentos 
+// Output: "The value is: omitted."
+```
+
+
+### El Objeto `arguments`
+
+El cuerpo de una función también tiene acceso a un objeto `arguments` tipo array con índice cero que contiene todos los valores pasados como argumentos.
+
+#### Ejemplo del Objeto `arguments`
+
+javascript
+
+```js
+
+```
+function myFunction() {    console.log(arguments); }  myFunction(3, true, "My string"); // Output: Arguments { 0: 3, 1: true, 2: "My string", … }`
+
+### Funciones Variádicas
+
+Las funciones variádicas pueden aceptar una cantidad variable de argumentos utilizando la sintaxis del parámetro REST.
+
+#### Ejemplo de Funciones Variádicas
+
+javascript
+
+Copiar código
+
+`function myFunction(mySeparator, ...myStrings) {   console.log(myStrings.join(mySeparator)); }  myFunction(" - ", "My first string", "My second string", "my third string"); // Output: "My first string - My second string - my third string"`
+
+### Resumen
+
+Las funciones en JavaScript son poderosas y flexibles, permitiendo modularidad, reutilización de código y una variedad de maneras de trabajar con parámetros y argumentos. Entender cómo declarar, llamar y manejar funciones es fundamental para desarrollar aplicaciones eficientes y mantenibles en JavaScript.

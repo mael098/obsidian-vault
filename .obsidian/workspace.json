@@ -23,9 +23,11 @@
             "id": "a5db2b98bc04fae5",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.5"
+                "file": "semestre 5/Fundamentos de Telecomunicaciones.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ingles/10 october 2023.md",
+                "file": "semestre 5/Fundamentos de Telecomunicaciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ingles/10 october 2023.md",
+                "file": "semestre 5/Fundamentos de Telecomunicaciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ingles/10 october 2023.md"
+                "file": "semestre 5/Fundamentos de Telecomunicaciones.md"
               }
             }
           },
@@ -183,6 +185,8 @@
   "active": "a5db2b98bc04fae5",
   "lastOpenFiles": [
     "curso js/bienvenida a JavaScript amor..md",
+    "semestre 5/Fundamentos de Telecomunicaciones.md",
+    "semestre 5",
     "Pasted image 20240623103058.png",
     "README.md",
     "2023-09-02.md",
@@ -220,7 +224,6 @@
     "basededatos/img",
     "ingles/Untitled",
     "ingles/Drawing 2023-10-12 08.34.05.excalidraw.md",
-    "Untitled",
     "eletricidad/Drawing 2024-04-18 10.20.08.excalidraw.md",
     "eletricidad",
     "2024-04-16.md",
