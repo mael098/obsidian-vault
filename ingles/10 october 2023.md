@@ -783,5 +783,35 @@ on
 
 ![[Pasted image 20240718202034.png]]
 
+1.- in
+2.- on 
+3.- on 
+in
+on
+at
+on
+in
+on
+in
+at
+on
+in
+at
+in
 
-
+---
+1. in
+2. in
+3.  on --
+4.  at --- 
+5. in --- 
+6. on --- 
+7. on  
+8. on --
+9. in 
+10. on --
+11. at ---
+12. at
+13. on
+14. on
+15. on --
