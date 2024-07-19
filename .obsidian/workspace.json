@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5110321044922
+    "width": 266.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "d76c348f96b287bc",
@@ -184,6 +185,7 @@
   },
   "active": "a5db2b98bc04fae5",
   "lastOpenFiles": [
+    "Pasted image 20240718202034.png",
     "semestre 5/Fundamentos de Telecomunicaciones.md",
     "curso js/bienvenida a JavaScript amor..md",
     "semestre 5",
@@ -228,7 +230,6 @@
     "eletricidad",
     "2024-04-16.md",
     "cultura empresarial/estado de privacion que sufre una persona.md",
-    "Excalidraw/Drawing 2023-09-02 15.34.59.excalidraw.md",
     "notas de proyectos",
     "basededatos",
     "extracuricular",

@@ -733,4 +733,55 @@ We
 ----
 
 AT
--  
+
+----
+
+
+1.- los padrinos
+
+2.- 
+
+
+in
+on
+onder -- 
+- next to
+- infont of
+between  -- 
+on--
+next to 
+in 
+berween 
+
+
+-----
+
+
+
+in
+at
+in
+in
+on
+in
+on
+on
+in
+in
+at
+at
+on
+
+
+6.- on 
+7.- in
+8.- at
+9.- in
+10.- on
+
+---
+
+![[Pasted image 20240718202034.png]]
+
+
+
