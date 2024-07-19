@@ -697,4 +697,40 @@ a
 4.-c
 5.-
 
+---
 
+# im , on and at (place)
+
+- in
+  - We use in to talk about a place that is inside a bigger space, such as a box, a house, a city or a country. 
+  - The clothes are in the wardrobe.
+  - The children are playing in the park.
+  - There´s a bookshop in the shopping  centre.
+  - My grandmother  was born in Sweden 
+  -
+  - We also use in with  other physical locations such as: 
+  **in** the world 
+  in water / the sea / a river / a lake/ a pool 
+  In the mountains / the countryside/ a valley/ the forest/
+  in a car/ a taxi
+
+---
+ON 
+- We use  _ on _  to talk about  location on a surface.
+- the books  are on the desk. 
+- we live on  the fifth floor.
+- There are picture on the wall.
+- She likes to sit on the floor
+
+
+- We also use  _ on _  for some types of public transport.
+He´s on the bus now.
+You can´t make phone calls on a plane.
+They go to school on the train.
+
+- We
+We 
+----
+
+AT
+-  
