@@ -815,3 +815,30 @@ in
 13. on
 14. on
 15. on --
+
+
+
+---
+![[Pasted image 20240724011917.png]]
+
+
+
+--------
+![[Pasted image 20240724012620.png]]
+
+![[Pasted image 20240724014006.png]]
+
+| cause                     | effect                                |
+| ------------------------- | ------------------------------------- |
+| he  broke into a bank     | the police arrested him               |
+| he missed the early train | he was too late for the job interview |
+| she is  illiterate        | she can´t  read the letter            |
+| he didn't                 |                                       |
+|                           |                                       |
+
+he missed the early 
+
+---
+![[Pasted image 20240724015842.png]]
+
+
