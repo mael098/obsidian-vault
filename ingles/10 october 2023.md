@@ -841,4 +841,7 @@ he missed the early
 ---
 ![[Pasted image 20240724015842.png]]
 
+![[Pasted image 20240724021850.png]]
 
+
+a
