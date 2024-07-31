@@ -878,3 +878,11 @@ c.It doesn't say.
 a.True. 
 b.False. ----
 c.It doesn't say.
+
+
+----
+
+![[Pasted image 20240731014422.png]]
+
+
+1.- R= 
