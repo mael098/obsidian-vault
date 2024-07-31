@@ -846,34 +846,35 @@ he missed the early
 
 ---
 1 In Australia, there are 30% - 40% fewer births on Christmas Day than on the most common day of the year.
-a.True.
+a.True. --
 b.False. 
 c.It doesn't say.
 
 2 In Ireland, there are more births on Boxing Day than Christmas Day. 
 a.True.
-b.False.
+b.False.--
 c.It doesn't say.
 
 3 In the USA, there are fewer births on Thanksgiving than Independence Day. 
-a.True.
+a.True.--
 b.False.
 c.It doesn't say.
 
-4 Doctors avoid doing birth operations on national holidays. a.True. 
+4 Doctors avoid doing birth operations on national holidays. a.True. ---
 b.False.
 c.It doesn't say.
 
-6 Doctors don’t do birth operations on April Fool’s Day in the UK. a.True. 
-b.False. 
+6 Doctors don’t do birth operations on April Fool’s Day in the UK. 
+a.True. 
+b.False.--- 
 c.It doesn't say.
 
 7 The most common month for a birthday is later in the USA than Russia. 
-a.True. 
+a.True. ----
 b.False.
 c.It doesn't say.
 
 8 The most common month for a birthday in Australia is February and March. 
 a.True. 
-b.False. 
+b.False. ----
 c.It doesn't say.
