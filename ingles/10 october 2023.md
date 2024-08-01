@@ -886,3 +886,31 @@ c.It doesn't say.
 
 
 1.- R= 
+
+
+---
+
+Sarah didn't use to have to _____
+
+_a._travel long distances to work. 
+
+_b._get up early.
+
+_c._manage staff on the ship. ----
+
+
+
+---
+![[Pasted image 20240730203812.png]]
+![[Pasted image 20240730204028.png]]
+![[Pasted image 20240730204115.png]]
+![[Pasted image 20240730204341.png]]
+2. a -
+3. a - 
+4. c -
+5. a
+6. a
+7. b
+8. b
+9. from
+10. b
