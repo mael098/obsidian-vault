@@ -914,3 +914,47 @@ _c._manage staff on the ship. ----
 8. b
 9. from
 10. b
+
+
+----
+![[Pasted image 20240731193850.png]]
+
+
+i like eggs either
+
+
+
+
+![[Pasted image 20240731194302.png]]
+
+![[Pasted image 20240731194340.png]]
+
+
+
+1 Texting while walking is ... 
+a.safer than driving and texting  ---
+b.worse than driving and texting ->
+c.as dangerous as driving and texting
+
+2 Some people can be hurt in their ... 
+a.heads ->
+b.backs ---
+c.hands
+
+
+3 Too much running could make our lives ... 
+a.safer --
+b.shorter ->
+c.happier
+
+4 How many runners did the researchers look at? 
+a.Thirteen hundred ---
+b.Thirty-three thousand 
+c.Three thousand three hundred ->
+
+5 A doctor who started running in nineteen sixty-seven ... 
+a.is very happy 
+b.said some exercise is good 
+c.thought his heart wasn’t strong
+
+
