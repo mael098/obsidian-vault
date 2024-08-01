@@ -954,7 +954,7 @@ c.Three thousand three hundred ->
 
 5 A doctor who started running in nineteen sixty-seven ... 
 a.is very happy 
-b.said some exercise is good 
+b.said some exercise is good ->
 c.thought his heart wasn’t strong
 
 
