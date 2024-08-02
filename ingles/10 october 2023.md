@@ -957,4 +957,83 @@ a.is very happy
 b.said some exercise is good ->
 c.thought his heart wasn’t strong
 
+---
+![[Pasted image 20240801193447.png]]
+
+
+![[Pasted image 20240801194244.png]]
+
+1. comes
+2. do
+3. being
+4. meet
+5. at
+
+Many bosses admit that there are gaps when it **comes** to training staff. Employers admit that many of their staff lack the key skills they need to **do** their job properly. Now business owners are **being** encouraged by the government to invest in their staff. The government wants to ensure that the skills taught in schools and colleges **meet** the needs of the local economy. Some companies have had considerable success in offering apprenticeship schemes. Where there are skills gaps, the companies can address them through training **at** an early stage. Such training requires investment, but it brings a return in a relatively short time.
+
+
+---
+
+
+1 What is the most surprising thing about the garden? a.the rocks b.the waterfalls c.the sculptures d.the plants
+
+
+
+2 When Nek first started building the garden he was... 
+a.breaking the law. 
+b.collecting rubbish in the forest. 
+c.working as a government official. 
+d.living in the forest.
+
+3 When the garden was discovered in 1975,... 
+a.The local people wanted to destroy it, but the government didn’t. 
+b.The government wanted to destroy it, but the local people didn’t. 
+c.Both the government and the local people wanted to destroy it. d.Both the government and the local people wanted to keep it.
+
+4 What happened while Nek was in USA? 
+a.Someone stole some sculptures. 
+b.A road was built through the park. 
+c.Some VIPs visited the garden. 
+d.People destroyed the garden.
+
+5 Which of the following is NOT true about the garden now? a.There is a road for VIPs through the garden. 
+b.People are still making new sculptures there. 
+c.The local government doesn’t manage the garden. 
+d.You can volunteer to work there.
+
+---
+1 According to Ravi,... 
+a. four years old is too early to give chores to a child. 
+b. his child doesn't like to do housework. 
+c. children can do more things than we think.
+
+2 Which chore did Ravi's son do when he was four? 
+a. Take out the trash. 
+b. Make his bed. 
+c. Set the table.
+
+3 According to Sophie... 
+a. their kids shout a lot. 
+b. it is hard to make her children do chores. 
+c. her teenagers only do the simplest tasks.
+
+4 What does Sophie say about her children? 
+a. They didn't help at all when they were younger. 
+b. They don't walk the dog enough. 
+c. They never clear the table or take the rubbish out.
+
+5 Emily... 
+a. pays her kids for each chore they do. 
+b. pays her kids extra money for washing cars. 
+c. never allows her children to stay up watching TV.
+
+6 Which is true about Oliver? 
+a. Each child does four or five chores every week. 
+b. Their home is very messy. 
+c. His kids only do the chores that they choose.
+
+7 According to Oliver,... 
+a. today, Ben is helping with the laundry. 
+b. one of the children is just three years old. 
+c. he and his wife both have jobs.
 
