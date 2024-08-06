@@ -1003,6 +1003,7 @@ d.You can volunteer to work there.
 
 ---
 1 According to Ravi,... 
+
 a. four years old is too early to give chores to a child. 
 b. his child doesn't like to do housework. 
 c. children can do more things than we think.
@@ -1037,3 +1038,10 @@ a. today, Ben is helping with the laundry.
 b. one of the children is just three years old. 
 c. he and his wife both have jobs.
 
+
+![[Pasted image 20240801204238.png]]
+1. been 
+2. working 
+3. had
+4. had
+5. 
