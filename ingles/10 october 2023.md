@@ -1044,4 +1044,11 @@ c. he and his wife both have jobs.
 2. working 
 3. had
 4. had
-5. 
+
+----
+![[Pasted image 20240806011425.png]]
+
+
+![[Pasted image 20240806011639.png]]
+![[Pasted image 20240806011709.png]]![[Pasted image 20240806012202.png]]
+![[Pasted image 20240806014108.png]]
