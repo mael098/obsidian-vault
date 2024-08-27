@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "57c50e6469e33635",
+        "id": "82dfdd1a9d427a16",
         "type": "tabs",
         "children": [
           {
-            "id": "c34f5ffd77edd044",
+            "id": "98daa8c87f2188e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ingles/10 october 2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5db2b98bc04fae5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ingles/10 october 2023.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ingles/10 october 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ingles/10 october 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ingles/10 october 2023.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,8 +161,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a5db2b98bc04fae5",
+  "active": "98daa8c87f2188e3",
   "lastOpenFiles": [
+    "ingles/10 october 2023.md",
+    "Excalidraw/Drawing 2023-09-02 15.34.59.excalidraw.md",
     "Pasted image 20240806014108.png",
     "Pasted image 20240806012202.png",
     "Pasted image 20240806011709.png",
@@ -194,13 +175,11 @@
     "Pasted image 20240801193447.png",
     "Pasted image 20240731194340.png",
     "Pasted image 20240731194302.png",
-    "Pasted image 20240731193850.png",
     "semestre 5/Fundamentos de Telecomunicaciones.md",
     "curso js/bienvenida a JavaScript amor..md",
     "semestre 5",
     "README.md",
     "2023-09-02.md",
-    "ingles/10 october 2023.md",
     "curso js",
     "paguinas web/Investigación librería FPDF.md",
     "paguinas web/Investigación Hosting.md",
