@@ -11,11 +11,28 @@
             "id": "98daa8c87f2188e3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024-04-16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f25326fb917e2993",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-04-16.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-04-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-04-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-04-16.md"
+              }
             }
           },
           {
@@ -161,8 +182,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "98daa8c87f2188e3",
+  "active": "6379b1a5d8338e94",
   "lastOpenFiles": [
+    "Untitled",
+    "Untitled 1.md",
+    "2024-04-16.md",
+    "Pasted image 20230907110704.png",
+    "semestre 5/Fundamentos de Telecomunicaciones.md",
+    "trabajos/objetivos.md",
     "ingles/10 october 2023.md",
     "Excalidraw/Drawing 2023-09-02 15.34.59.excalidraw.md",
     "Pasted image 20240806014108.png",
@@ -174,8 +201,6 @@
     "Pasted image 20240801194244.png",
     "Pasted image 20240801193447.png",
     "Pasted image 20240731194340.png",
-    "Pasted image 20240731194302.png",
-    "semestre 5/Fundamentos de Telecomunicaciones.md",
     "curso js/bienvenida a JavaScript amor..md",
     "semestre 5",
     "README.md",
@@ -194,7 +219,6 @@
     "basededatos/Fundamentos de DB.md",
     "basededatos/tareas.md",
     "basededatos/base de datos.md",
-    "trabajos/objetivos.md",
     "notas de proyectos/ideas.md",
     "eletricidad/apuntes.md",
     "eletricidad/Untitled.md",
@@ -204,10 +228,7 @@
     "basededatos/img",
     "ingles/Untitled",
     "ingles/Drawing 2023-10-12 08.34.05.excalidraw.md",
-    "eletricidad/Drawing 2024-04-18 10.20.08.excalidraw.md",
     "eletricidad",
-    "2024-04-16.md",
-    "cultura empresarial/estado de privacion que sufre una persona.md",
     "notas de proyectos",
     "basededatos",
     "extracuricular",
