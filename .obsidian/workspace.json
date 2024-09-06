@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-16.md",
+                "file": "Untitled/sistemas gestores de base de datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-16.md",
+                "file": "Untitled/sistemas gestores de base de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-16.md",
+                "file": "Untitled/sistemas gestores de base de datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-16.md"
+                "file": "Untitled/sistemas gestores de base de datos.md"
               }
             }
           },
@@ -182,11 +182,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6379b1a5d8338e94",
+  "active": "f25326fb917e2993",
   "lastOpenFiles": [
+    "2024-04-16.md",
+    "Untitled/sistemas gestores de base de datos.md",
     "Untitled",
     "Untitled 1.md",
-    "2024-04-16.md",
     "Pasted image 20230907110704.png",
     "semestre 5/Fundamentos de Telecomunicaciones.md",
     "trabajos/objetivos.md",
@@ -231,7 +232,6 @@
     "eletricidad",
     "notas de proyectos",
     "basededatos",
-    "extracuricular",
     "universidad/INVESTIGACION DE OPERACIONES/Canvas/Historia.canvas"
   ]
 }
