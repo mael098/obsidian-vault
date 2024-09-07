@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-16.md",
+                "file": "Untitled/sistemas gestores de base de datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/tarea.md",
+                "file": "Untitled/sistemas gestores de base de datos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled/tarea.md",
+                "file": "Untitled/sistemas gestores de base de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled/tarea.md",
+                "file": "Untitled/sistemas gestores de base de datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled/tarea.md"
+                "file": "Untitled/sistemas gestores de base de datos.md"
               }
             }
           },
@@ -182,11 +181,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f25326fb917e2993",
+  "active": "98daa8c87f2188e3",
   "lastOpenFiles": [
+    "2024-04-16.md",
     "Untitled/sistemas gestores de base de datos.md",
     "Untitled/tarea.md",
-    "2024-04-16.md",
     "Untitled",
     "Untitled 1.md",
     "Pasted image 20230907110704.png",
